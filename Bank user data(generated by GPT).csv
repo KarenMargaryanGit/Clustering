@@ -1,0 +1,1001 @@
+UserID,Name,Age,Gender,City,AccountType,AccountBalance,CreditScore,LastTransactionDate,MonthlyIncome,LoanStatus,CustomerSince,NumTransactions,AvgTransactionValue,HasCreditCard,ActiveSubscriptions,DigitalWalletUsage,HasInvestmentAccount
+89311,Matthew Lopez,19,Other,Port Cory,Fixed Deposit,56495.1,850,2024-04-01,5187.96,Yes,2021,449,810.77,Yes,4,Low,No
+93698,Cynthia Hall,43,Male,West Morganberg,Current,39202.64,767,2024-04-12,4337.78,Yes,2019,84,940.53,No,2,Medium,No
+61063,Austin Johnson,34,Other,East Savannah,Business,46457.57,770,2024-07-25,8842.69,No,2021,124,681.16,No,5,Medium,No
+33761,Shelley Jones,46,Other,South Jamesfurt,Business,36511.41,753,2024-03-28,2962.11,Yes,2010,449,224.04,Yes,0,Low,No
+67826,Andrew Burke,60,Male,Tiffanybury,Savings,55054.33,818,2024-07-01,1214.09,No,2012,1,571.36,Yes,4,High,Yes
+73670,William Hall,47,Other,Davisside,Current,45905.06,460,2024-01-06,1736.36,No,2015,97,814.25,No,1,Low,Yes
+49881,Rhonda Webb,42,Female,Keithshire,Business,39317.3,313,2024-02-29,9959.02,No,2007,58,732.21,No,3,High,Yes
+80719,Sean Castillo,39,Male,West Craigtown,Business,48937.55,460,2024-02-02,9670.37,Yes,2018,234,141.4,No,2,High,Yes
+56313,Susan Stone,65,Female,North Marcoburgh,Business,58244.46,578,2024-08-23,6270.79,Yes,2016,101,453.03,Yes,3,Medium,No
+69139,Stanley Fisher,62,Male,Port Jessica,Fixed Deposit,57296.21,498,2024-10-27,8814.18,No,2014,208,841.81,Yes,0,Low,Yes
+74643,Autumn Hudson,47,Other,Wilsonton,Business,95659.49,583,2024-05-04,6119.38,No,2006,233,288.87,Yes,2,Low,No
+87181,Cynthia Williams,55,Male,Joshuabury,Business,86673.57,766,2024-10-24,5006.72,Yes,2018,357,556.93,No,2,Low,Yes
+60123,Julie Allen,44,Female,Garnerhaven,Savings,54306.02,588,2024-02-06,4175.55,No,2022,483,800.79,Yes,0,Medium,Yes
+62299,Jay Meadows,37,Male,South Taramouth,Current,79365.98,595,2024-04-03,4028.75,No,2012,333,673.48,Yes,5,Medium,Yes
+58053,Mr. Gregory Best,53,Male,Joshuachester,Business,13670.34,616,2024-03-22,6884.05,No,2004,356,132.83,Yes,5,Medium,No
+82720,Stephanie Green,29,Other,Evansburgh,Business,46438.71,831,2024-08-08,5642.13,Yes,2011,60,679.89,Yes,1,Medium,No
+66793,Richard Miller,19,Other,New Jasonport,Current,42575.34,570,2024-11-05,3688.07,No,2001,248,540.37,No,4,Low,No
+18029,Jillian Kelly,47,Male,Elizabethmouth,Business,14591.81,814,2024-03-03,5777.23,Yes,2017,198,323.32,No,0,Medium,Yes
+91125,Megan Johnson,31,Other,Cynthiamouth,Fixed Deposit,10184.5,380,2024-04-14,8155.17,Yes,2007,217,897.68,Yes,0,Low,Yes
+70088,Robin Williams,20,Female,West Kimberlyland,Fixed Deposit,42319.11,704,2024-05-17,8116.61,Yes,2011,346,938.38,Yes,2,High,Yes
+31340,April Walker,30,Female,West Vincentshire,Savings,84544.77,793,2024-01-17,2065.59,No,2000,429,908.5,No,0,Low,Yes
+56454,Laurie Nichols,32,Female,West Daniel,Business,13778.07,553,2024-03-30,9627.95,Yes,2000,163,538.29,No,4,Low,Yes
+17968,Jason Estrada,70,Female,North Brianfurt,Current,82958.82,602,2024-07-25,8226.31,No,2021,122,427.91,Yes,0,High,No
+58368,Katelyn Crawford,54,Other,East Elizabeth,Business,29898.69,717,2024-05-19,6006.13,Yes,2008,117,536.81,No,0,High,Yes
+88176,Marie Carpenter,50,Other,Justinburgh,Current,81438.0,406,2024-01-17,5042.98,Yes,2021,220,96.43,Yes,4,High,Yes
+94097,Lydia Rodriguez,35,Male,Nathanielbury,Savings,43962.97,565,2024-05-11,3409.13,No,2012,13,171.85,Yes,0,Medium,No
+97829,Jamie Reeves,64,Other,New Jessica,Savings,50188.03,693,2024-01-26,6102.95,Yes,2011,125,552.22,No,1,High,No
+91775,Rebecca Schroeder,43,Male,Rebeccahaven,Fixed Deposit,53719.88,506,2024-09-23,2020.75,Yes,2016,139,229.03,No,0,Low,No
+18253,Cynthia Gould,40,Female,Brayville,Savings,46385.52,438,2024-04-30,8351.58,Yes,2003,368,614.88,Yes,1,High,Yes
+81778,Peter Miller,64,Female,Allisonmouth,Business,83398.17,485,2024-09-16,4459.32,Yes,2000,186,981.7,No,5,Low,Yes
+71419,Carol Wagner,37,Male,Sergiotown,Fixed Deposit,86723.47,599,2024-07-13,3517.09,No,2013,76,101.65,Yes,3,Low,Yes
+29276,Angela Young,64,Female,Nancyburgh,Savings,85884.16,686,2024-08-30,9957.63,Yes,2004,377,11.49,No,1,Medium,Yes
+63093,Nicholas Roberts,68,Female,Williamsstad,Fixed Deposit,21907.49,721,2024-05-01,6286.31,Yes,2021,20,307.88,No,0,Medium,No
+36398,Sarah Schaefer,28,Female,New Paulaborough,Fixed Deposit,7696.84,641,2024-01-18,9286.17,No,2008,389,405.06,Yes,5,Low,No
+40803,Alicia Terry,47,Female,South Fernandoland,Savings,33064.4,648,2024-04-14,1864.6,No,2021,266,586.12,No,3,Medium,No
+91836,Diane Parker,52,Other,Jamiechester,Business,93728.45,322,2024-02-28,9901.72,Yes,2010,66,119.45,Yes,0,High,No
+15842,Veronica Hall,19,Male,North James,Current,59393.28,806,2024-02-06,8230.2,Yes,2009,349,78.15,No,4,High,Yes
+50595,Patrick Jones,70,Male,North Tyler,Savings,9834.81,465,2024-02-23,6484.56,No,2018,267,137.4,Yes,0,Medium,Yes
+84215,Candace Salazar,56,Female,New Elizabethton,Savings,99511.03,355,2024-02-11,9383.85,No,2023,263,496.89,Yes,0,Low,No
+60528,Ellen Shannon,41,Male,Burkeside,Business,8808.84,345,2024-05-23,3467.79,No,2001,274,74.45,No,0,Low,No
+30712,Tara Parker,20,Female,Blevinston,Fixed Deposit,18910.77,623,2024-04-03,1546.43,No,2006,164,238.09,Yes,5,High,Yes
+93581,Dustin Clark,53,Other,New Christineside,Business,30985.12,516,2024-05-29,9658.13,Yes,2009,233,186.45,Yes,3,Medium,Yes
+52990,Dwayne Grant,18,Other,Port Christophermouth,Business,14500.35,591,2024-04-16,2792.02,No,2014,433,677.36,No,5,Low,No
+86612,Teresa Hickman,52,Other,Lisaside,Fixed Deposit,72599.13,538,2024-05-27,6390.55,Yes,2013,406,642.98,Yes,4,High,No
+87790,Herbert Ray,50,Other,Gainesborough,Business,22954.74,399,2024-04-09,8113.49,No,2012,333,361.41,Yes,3,High,No
+98661,Cynthia Harris,39,Female,Priscillachester,Current,33052.67,759,2024-03-16,9579.06,Yes,2000,203,147.85,Yes,2,Low,No
+93282,Tara Rodriguez,23,Male,Lake Anthonyview,Current,96882.75,322,2024-10-09,7086.73,No,2000,182,342.78,Yes,5,High,No
+51862,Tony Hickman,71,Other,Douglasside,Fixed Deposit,57991.47,403,2024-01-30,3690.86,Yes,2002,395,210.14,No,0,High,Yes
+45455,Daniel Sanchez,52,Female,Velezchester,Business,62572.45,697,2024-02-08,8000.27,No,2014,4,323.07,Yes,3,High,No
+91281,Ashley Sanford,74,Female,Christyborough,Fixed Deposit,53802.89,452,2024-10-09,9095.31,Yes,2002,452,442.99,Yes,4,Low,Yes
+84722,Justin Summers MD,27,Female,Bendertown,Business,50722.95,510,2024-01-31,1608.41,No,2005,288,640.43,Yes,2,High,Yes
+28309,Karen Johnson,30,Female,South Kristin,Fixed Deposit,54010.55,702,2024-11-14,6978.56,No,2005,55,138.15,No,5,Low,No
+25145,Cameron King,56,Male,Henryland,Business,28544.79,845,2024-07-19,4831.4,Yes,2001,499,565.18,Yes,5,High,No
+52718,Kyle Bryant,18,Male,West Amberhaven,Current,85423.8,822,2024-04-08,9250.23,Yes,2007,374,473.05,No,5,Low,Yes
+38482,Stacy Andrews,20,Other,Woodmouth,Current,94094.8,485,2024-06-19,5698.92,Yes,2021,402,146.13,No,4,High,Yes
+48954,Cody Smith,49,Female,Shawburgh,Current,15886.55,708,2024-04-18,3017.45,No,2010,384,542.0,No,2,Low,No
+14300,Megan Ayala,60,Female,Sanchezbury,Fixed Deposit,41026.3,454,2024-11-09,9494.13,No,2015,57,666.09,Yes,1,Low,No
+43546,Joshua Baker,69,Male,North Timothytown,Current,2007.95,560,2024-06-08,8048.63,Yes,2013,31,365.83,No,4,High,No
+70641,Willie Mcguire,39,Male,Tinaside,Business,71297.16,584,2024-04-15,2640.45,No,2021,276,778.59,No,3,Medium,No
+42141,Elizabeth Smith,67,Other,New Jasonburgh,Savings,19739.13,799,2024-06-25,5510.62,Yes,2005,240,70.32,Yes,4,High,Yes
+32157,Kevin Weber,63,Other,Kennethtown,Current,56978.18,406,2024-03-04,6526.25,No,2021,89,106.81,No,5,Low,No
+59469,Eric Garcia,66,Female,West Blakeville,Business,11841.72,623,2024-07-30,3112.26,No,2009,108,869.16,No,1,Medium,Yes
+61458,Juan Patel,63,Male,Langshire,Current,57525.96,435,2024-04-03,2698.75,No,2003,500,394.21,No,2,Medium,No
+49113,Robert Daniel,22,Other,South Jennifer,Savings,57447.37,714,2024-05-23,8863.14,Yes,2019,176,671.96,Yes,0,Low,Yes
+88829,Yvonne Lopez,27,Female,Jordanfort,Business,38503.28,470,2024-07-22,1806.22,Yes,2003,23,31.35,Yes,5,High,No
+76584,Gina Walker,23,Female,Nicoleberg,Fixed Deposit,27006.39,495,2024-04-29,6434.76,No,2012,61,63.86,No,5,Low,No
+67725,Kelly Lawrence,32,Female,Rodriguezshire,Business,1289.88,832,2024-07-17,6022.92,Yes,2002,191,563.93,No,0,Medium,No
+91920,John Dyer,30,Male,Gregoryhaven,Current,42490.66,761,2024-04-10,4018.65,Yes,2012,212,218.83,No,0,Low,No
+10675,Erin Hall,42,Other,Blakechester,Business,34885.22,674,2024-11-08,9253.51,No,2015,164,359.68,No,1,Medium,No
+62792,Mrs. Susan Lewis,20,Other,Angelaton,Current,21406.25,773,2024-05-20,7255.4,Yes,2002,148,15.49,No,0,Low,No
+64106,Leslie Gilbert,29,Female,Martinfurt,Fixed Deposit,52824.0,839,2024-04-27,6526.02,No,2009,464,607.24,Yes,3,High,No
+51495,Andrew Tran,31,Other,West Crystalton,Savings,94581.34,319,2024-06-01,3025.88,No,2015,299,145.29,No,5,Medium,No
+80317,Angelica Walker,26,Male,Port Sarah,Current,61697.28,739,2024-02-06,5382.26,No,2020,248,32.58,No,0,Medium,Yes
+61420,Misty Wright,52,Other,West Willie,Savings,59932.36,610,2024-02-26,8749.09,No,2022,370,197.39,Yes,2,Low,No
+39185,Stephanie Smith,67,Male,Patrickstad,Savings,16095.57,347,2024-08-15,1559.65,Yes,2002,43,202.7,No,3,Medium,No
+92571,Jeffrey Doyle,68,Other,East David,Current,59823.88,416,2024-03-16,8096.01,Yes,2006,387,400.64,Yes,5,Medium,No
+86260,Nathan Nicholson,59,Male,Holderton,Savings,16146.15,380,2024-10-11,8246.19,No,2023,6,199.21,No,2,High,Yes
+27101,Derrick Duncan,56,Female,Lake Chad,Business,73103.85,619,2024-07-29,6836.26,Yes,2018,499,625.44,No,4,High,No
+46188,Julie Boyer,70,Male,Jessicaburgh,Business,68820.66,302,2024-09-14,2147.0,No,2012,22,838.84,No,1,Low,Yes
+65440,Richard Anderson,41,Male,Christopherview,Business,35839.64,671,2024-09-22,3378.81,Yes,2007,83,981.16,Yes,0,Medium,Yes
+72781,Jeffrey Harper,75,Female,North Amyside,Current,55300.34,550,2024-07-14,9837.27,Yes,2007,146,258.77,Yes,3,High,Yes
+57925,Ryan Santana,44,Male,North Nicholastown,Current,57974.97,432,2024-07-05,9929.54,Yes,2012,266,619.86,Yes,0,High,No
+88627,William Nichols DDS,59,Male,Christinaburgh,Fixed Deposit,34710.56,382,2024-10-08,5822.7,Yes,2006,261,225.25,No,0,Medium,Yes
+97510,Jason Lee,53,Female,Lewisfort,Business,20454.4,371,2024-01-29,6098.04,Yes,2005,169,690.04,Yes,2,Medium,Yes
+24457,Aaron Benitez,33,Female,South Randallmouth,Current,73670.39,543,2024-07-29,9392.62,No,2019,102,546.83,Yes,2,Low,No
+16845,Melissa Key,21,Female,Port Jennifer,Savings,44280.78,652,2024-09-04,3044.65,No,2021,270,658.38,No,0,Medium,Yes
+28169,Thomas Wright,66,Female,Pettyside,Business,85106.64,815,2024-11-13,4706.26,No,2019,496,329.22,No,1,Low,Yes
+15983,Renee White,74,Male,New Jason,Savings,58248.04,650,2024-10-07,8076.46,Yes,2000,271,654.09,Yes,1,Medium,No
+64099,Christine Perry,30,Female,Reynoldsside,Business,94566.91,699,2024-05-07,6885.52,No,2010,332,65.05,Yes,0,Medium,No
+33623,Teresa Andrade,18,Male,Hannahview,Business,77061.27,497,2024-03-26,6058.04,Yes,2002,68,458.56,Yes,1,High,Yes
+64459,Eric Wu,73,Male,Lake Rodney,Current,27746.35,459,2024-05-22,3696.3,Yes,2007,428,649.69,No,2,High,No
+50664,Brenda Flores,73,Female,South Misty,Savings,45096.71,625,2024-02-19,4187.19,No,2012,455,813.31,Yes,4,Low,Yes
+83528,Amy Mitchell,64,Male,Port Joseburgh,Business,13240.91,844,2024-01-18,1242.33,Yes,2002,298,914.9,No,0,High,No
+50424,Vickie Robinson,67,Female,Rogersstad,Savings,75895.3,726,2024-05-23,7856.0,No,2015,90,563.83,No,2,Medium,Yes
+61631,Logan Buck MD,75,Other,Hannahshire,Fixed Deposit,21887.5,699,2024-07-29,7572.23,No,2022,447,849.23,No,3,Low,No
+47836,Hunter Johnson,64,Male,Francesstad,Business,69896.04,519,2024-05-16,4453.12,No,2020,39,131.67,Yes,4,Low,Yes
+65270,Michael Mccullough,37,Female,Hochester,Business,43559.55,423,2024-03-04,3976.12,No,2005,480,292.1,No,4,Low,Yes
+49845,Richard Murphy,48,Male,South Jamesville,Savings,64197.08,591,2024-10-14,5225.81,Yes,2001,251,98.64,Yes,3,Low,No
+43878,Rebecca Hopkins,33,Male,Everettfort,Business,5678.97,477,2024-03-09,2197.06,No,2020,23,528.61,Yes,3,Medium,Yes
+69687,Donald Morgan,35,Male,Haleyberg,Fixed Deposit,32090.34,325,2024-01-29,3698.3,Yes,2009,312,276.15,No,1,Medium,No
+21199,Breanna Barnett,23,Male,Adambury,Fixed Deposit,88324.94,642,2024-01-07,7117.2,No,2014,395,192.46,Yes,0,Low,Yes
+15602,Debbie Nelson,38,Other,Port Ryanstad,Fixed Deposit,46853.67,471,2024-09-11,6166.21,Yes,2022,274,247.05,No,2,Low,No
+98863,Allison Hill,24,Female,Johnsonchester,Fixed Deposit,88451.72,731,2024-04-18,8938.87,No,2021,465,718.99,No,4,Low,Yes
+80768,Timothy Coleman,70,Female,Brianville,Current,40465.01,639,2024-06-19,2938.26,Yes,2008,240,163.32,No,0,High,Yes
+89374,Ann Gonzalez,18,Male,Josephhaven,Fixed Deposit,7605.04,492,2024-03-13,8740.88,Yes,2020,413,386.09,No,2,High,Yes
+74652,Alicia Lester,60,Male,Garciaside,Fixed Deposit,59001.12,699,2024-10-07,2666.61,Yes,2005,145,190.31,Yes,0,Low,No
+85114,Jasmine Horne MD,64,Male,West Bethborough,Fixed Deposit,34287.99,621,2024-11-03,9388.8,No,2006,251,401.41,No,1,Low,No
+36932,Shelby Stark,48,Male,East Michelle,Business,96121.6,554,2024-01-02,5008.75,No,2012,300,395.7,No,1,Low,Yes
+25621,Tyler Davis,27,Female,Martinmouth,Current,41898.71,708,2024-04-04,4242.02,No,2016,273,808.51,No,3,Low,Yes
+13784,Lisa Payne,71,Male,Websterside,Business,19220.69,735,2024-09-06,7194.11,No,2009,270,425.04,No,5,Low,No
+72995,Maria Williams,65,Other,Manningshire,Business,42829.96,720,2024-10-30,6188.54,No,2013,172,98.38,Yes,5,Low,No
+65516,William Hunter,23,Other,Lake Amy,Business,75737.33,749,2024-10-16,3702.98,No,2012,212,228.47,No,3,High,Yes
+76423,Kelly Benitez,37,Other,East Desiree,Business,40337.27,300,2024-05-26,3189.31,Yes,2007,221,192.4,No,5,Medium,No
+26874,Lisa Scott,43,Female,Lake Julia,Savings,18324.41,404,2024-07-14,2187.99,Yes,2006,440,494.0,Yes,1,High,No
+87038,Tiffany Zamora PhD,67,Male,Port Adamchester,Current,25969.78,392,2024-02-10,6329.95,Yes,2014,218,337.25,No,0,High,Yes
+62973,Joseph Beard,69,Female,New Chasetown,Savings,41953.93,743,2024-08-03,7077.94,Yes,2012,400,231.51,No,3,High,No
+15511,Anita Hopkins,60,Male,Martinezmouth,Fixed Deposit,7638.04,420,2024-11-04,1258.69,Yes,2017,292,50.97,No,3,Low,Yes
+64563,Brandon Edwards,20,Male,Thomasside,Business,72387.13,539,2024-11-18,6829.92,Yes,2021,213,945.51,Yes,0,High,Yes
+62895,Jennifer Campos,20,Male,New Matthewburgh,Current,65322.8,495,2024-09-11,2184.75,Yes,2016,195,147.02,Yes,3,High,Yes
+75485,Mathew King,35,Female,Lake Robertmouth,Business,22926.7,403,2024-04-25,9864.7,No,2018,390,654.46,Yes,2,Low,Yes
+45861,Zachary Olson MD,50,Female,Oscarport,Business,28353.71,741,2024-04-19,6468.43,No,2022,203,434.98,No,5,High,No
+64050,Jasmine Robinson,60,Male,Samanthafurt,Savings,32804.87,301,2024-06-09,5064.14,No,2013,418,723.19,Yes,1,Medium,Yes
+15003,Jared Sullivan,52,Female,Martinmouth,Current,71733.6,397,2024-01-31,5509.41,No,2000,447,319.98,No,5,Medium,No
+48797,William Knox,34,Other,Lewisside,Business,20124.45,788,2024-06-01,9578.0,No,2004,275,984.38,Yes,0,Low,No
+21939,Keith Barnes,29,Female,West Sonyamouth,Savings,30009.87,719,2024-11-16,1175.0,Yes,2020,101,220.48,No,1,Medium,Yes
+32589,Rachel Perez,68,Male,Natalieview,Savings,61140.74,603,2024-09-17,6078.31,Yes,2013,378,437.81,Yes,1,Medium,No
+73621,Thomas Werner,55,Male,Bakertown,Savings,85005.41,608,2024-10-01,1299.38,Yes,2008,420,231.31,Yes,4,Medium,Yes
+54660,Brooke Johnson,50,Other,South Elizabeth,Current,11607.52,710,2024-09-08,5079.92,No,2005,349,480.83,Yes,4,High,Yes
+21507,Kimberly Mccormick,25,Other,Karltown,Business,47463.3,534,2024-10-30,2838.51,Yes,2016,497,992.63,Yes,2,Medium,No
+24074,Anthony Day,31,Male,Wangburgh,Current,56595.5,739,2024-09-05,1916.92,No,2011,376,728.62,Yes,2,Medium,No
+45753,Lynn Holland,33,Male,Howeview,Current,92416.13,388,2024-09-06,2014.9,No,2020,355,495.11,Yes,4,Low,No
+16538,Katie Vaughan,40,Female,Anitamouth,Business,84040.01,489,2024-05-05,2665.84,No,2002,263,283.35,No,3,Medium,Yes
+81630,Cathy Dodson,20,Male,Port Jacob,Savings,56251.46,823,2024-06-08,2675.1,Yes,2009,302,990.01,No,5,High,Yes
+31964,Angela Dennis,60,Female,Lake Joshuafort,Business,31140.0,745,2024-08-09,9884.59,No,2007,115,178.04,Yes,2,High,No
+95560,Jonathan Rodriguez,38,Other,Howardfurt,Fixed Deposit,24222.38,765,2024-05-19,3908.34,No,2005,12,803.49,Yes,5,High,Yes
+80329,Michael Keith,61,Female,East Margaretchester,Savings,21659.48,431,2024-09-08,8324.13,Yes,2005,343,163.87,No,4,Medium,Yes
+37995,Michael Sandoval,58,Other,South Ryan,Current,98992.48,593,2024-10-10,8501.24,Yes,2022,43,871.39,Yes,3,Medium,No
+78718,Gregory Ryan,30,Male,Deannamouth,Fixed Deposit,62745.46,686,2024-09-19,4907.48,Yes,2011,165,282.97,No,2,High,No
+64085,Todd Wagner,75,Male,Yatesbury,Fixed Deposit,32380.51,780,2024-09-22,3139.46,Yes,2009,71,822.88,Yes,2,High,Yes
+84755,Julie Robinson,54,Male,Coxland,Business,4843.64,323,2024-06-18,9272.05,Yes,2006,259,612.59,No,1,Low,No
+59047,Mr. Justin Freeman PhD,45,Female,Lake Crystal,Current,42246.07,799,2024-08-26,8084.19,Yes,2007,163,135.11,Yes,4,Medium,No
+98590,Aaron Pacheco,63,Male,Christinestad,Current,2300.96,717,2024-04-01,5657.26,Yes,2011,347,508.71,Yes,4,High,No
+39762,Allen Rios,46,Male,Port Kevinstad,Business,87057.31,490,2024-11-07,2113.68,Yes,2016,267,119.85,Yes,2,High,No
+28182,David Farmer,52,Male,East Benjaminberg,Business,43078.86,515,2024-10-22,6803.4,No,2001,114,164.32,Yes,4,Medium,No
+90432,Austin Pineda,60,Female,East Ryanmouth,Business,84135.06,469,2024-09-20,8743.83,Yes,2018,300,965.16,Yes,2,Medium,No
+93117,Justin Mooney,67,Other,Holmesstad,Business,7276.75,762,2024-07-26,9455.08,Yes,2022,10,699.26,No,3,Medium,No
+35802,Crystal Ramos,62,Other,New Danielleberg,Current,99761.21,756,2024-04-15,4728.07,No,2002,448,130.62,Yes,3,Medium,No
+87109,Karen Buck,47,Female,Ruizbury,Savings,49849.57,358,2024-01-05,4491.73,No,2005,42,72.92,Yes,4,High,Yes
+41823,Amanda Flores,25,Other,North Arthur,Current,37644.6,538,2024-02-19,5909.53,Yes,2009,243,790.2,No,3,Low,Yes
+92427,Joshua Kelly,60,Female,Lake Jason,Business,7252.91,841,2024-01-18,9626.28,Yes,2018,151,464.49,No,4,Low,Yes
+56969,Brandon Gonzales,60,Other,Gilmorebury,Business,13932.01,484,2024-02-02,7164.41,No,2009,94,283.43,Yes,4,Medium,Yes
+35845,Robert Wilson,20,Other,Joshuaborough,Fixed Deposit,62689.16,337,2024-09-23,6839.95,No,2001,33,315.7,No,5,High,Yes
+11487,Jerry Benson,52,Female,West Richardport,Current,10523.09,536,2024-02-13,8810.17,No,2006,348,983.58,No,5,Low,No
+24334,David Ford,30,Female,Tylerland,Business,47679.8,681,2024-01-13,2134.3,No,2004,79,939.07,Yes,0,High,No
+52986,Juan Steele,22,Female,Lake Zachary,Fixed Deposit,25097.56,829,2024-11-14,1407.76,No,2019,382,971.61,No,1,High,Yes
+88855,Erika Williams,45,Male,New Carlborough,Savings,80123.74,614,2024-06-28,3992.77,Yes,2016,28,239.08,No,5,High,Yes
+67653,Antonio Mckenzie,18,Other,South Ashleyfurt,Current,72734.52,430,2024-05-17,6403.04,No,2000,147,934.75,No,4,Low,No
+35308,Jared Jones,20,Male,West Connie,Fixed Deposit,81665.68,414,2024-05-22,4156.05,No,2009,189,830.21,No,4,Low,No
+20919,Laura Anderson,31,Male,Billymouth,Savings,8059.8,810,2024-07-28,6891.89,Yes,2007,377,497.49,Yes,2,High,No
+47007,Bethany Houston,36,Male,North Nathanhaven,Savings,58622.2,711,2024-02-22,4481.09,No,2011,356,676.51,No,3,Medium,No
+47296,Alexis Mcclain,36,Male,Kelseyhaven,Fixed Deposit,95058.29,670,2024-10-01,5895.02,No,2017,115,630.98,Yes,5,Low,Yes
+81437,Valerie Roberts,56,Female,Jameshaven,Fixed Deposit,14930.83,608,2024-01-24,6753.8,Yes,2003,62,269.04,Yes,0,High,Yes
+21798,Mikayla Alvarado,41,Female,Dannyhaven,Fixed Deposit,56617.74,525,2024-03-31,9371.07,Yes,2012,348,42.14,No,0,High,Yes
+42315,Jonathan Allen,48,Other,Joytown,Fixed Deposit,99745.64,529,2024-11-21,9683.6,Yes,2013,391,313.39,No,5,Low,Yes
+99133,Janet Wilson,32,Other,Mullenmouth,Fixed Deposit,25682.16,589,2024-04-21,6047.41,Yes,2008,88,586.83,Yes,1,High,Yes
+87791,Taylor Lang,49,Male,South Kyleport,Business,76648.71,654,2024-01-19,4129.71,Yes,2022,234,356.17,Yes,2,High,No
+79621,Molly Ramos,56,Female,Whitestad,Fixed Deposit,48816.61,679,2024-08-31,9274.34,No,2006,262,546.7,Yes,3,Medium,No
+81708,Shannon Mcdowell,41,Female,Lake Benjamin,Savings,59707.85,786,2024-04-15,1819.16,Yes,2007,152,356.24,Yes,1,Low,No
+25036,Carlos Rocha,74,Male,Davisside,Savings,34100.83,810,2024-01-16,7643.42,Yes,2006,68,845.5,No,2,Medium,Yes
+35839,Andrea Williams,20,Female,Christopherside,Savings,89266.99,644,2024-01-30,7821.3,No,2013,210,86.06,No,3,Low,Yes
+31117,James Barnes,75,Male,Catherineshire,Savings,92770.44,318,2024-04-09,3213.9,Yes,2002,130,998.23,No,0,High,Yes
+42727,Sheryl Day,67,Male,Samanthaburgh,Savings,14938.28,345,2024-05-03,5031.75,Yes,2002,403,852.08,No,2,High,Yes
+66661,Zachary Oliver,27,Female,West Jacobtown,Savings,51800.14,732,2024-05-10,9078.37,No,2011,92,575.8,Yes,4,Low,Yes
+83308,Ruben Cherry,45,Other,Boylechester,Savings,46180.69,775,2024-01-13,1413.91,Yes,2012,294,346.22,No,2,Medium,Yes
+60096,James Green,32,Male,Johnsonfort,Business,54282.51,460,2024-02-19,9319.05,No,2019,243,346.52,Yes,1,High,No
+40368,Cassidy King,40,Male,South Tannerburgh,Business,34695.36,304,2024-09-15,4653.97,No,2001,262,605.79,Yes,2,High,No
+48118,Alexander Randall,70,Female,Pearsonstad,Fixed Deposit,27724.93,757,2024-06-15,2266.59,No,2021,42,453.61,Yes,1,Low,No
+44634,Matthew Marks,66,Other,Port Monicamouth,Fixed Deposit,91753.59,701,2024-01-27,3587.94,Yes,2001,271,694.88,No,3,Medium,No
+15770,Michael Goodman,48,Female,Phillipstown,Current,17555.84,583,2024-08-31,7173.38,No,2019,28,229.05,Yes,2,Medium,Yes
+46791,Christopher Nunez,26,Male,South Nicholas,Current,64525.96,481,2024-07-06,6222.22,No,2006,154,894.09,No,4,High,No
+25062,Jennifer Harvey,58,Other,West Jacob,Business,59193.86,332,2024-04-30,9995.98,Yes,2009,271,887.62,Yes,1,Medium,No
+70721,Vincent Pham,33,Other,North Jimport,Business,50115.48,347,2024-08-13,3305.56,Yes,2014,169,525.46,Yes,0,Medium,Yes
+89271,Sandra Morris,70,Female,Jenkinsfort,Savings,41219.24,474,2024-02-10,3693.26,Yes,2008,166,35.83,No,5,Medium,No
+29972,Felicia Williams,53,Male,Ericfort,Business,83823.65,425,2024-05-11,2273.97,Yes,2004,345,884.26,Yes,5,Medium,No
+25120,James Coleman,31,Male,Lake Alexandraburgh,Savings,68336.55,613,2024-11-21,5721.12,No,2012,49,944.45,No,1,Medium,Yes
+31050,Samuel Martinez,64,Female,Jordanberg,Savings,8891.05,682,2024-03-04,2602.08,Yes,2010,40,483.71,Yes,1,Medium,Yes
+82022,Christopher Rodriguez,22,Male,Johnsonton,Business,56595.35,620,2024-01-28,5314.0,No,2019,406,410.98,No,2,Low,Yes
+22757,Shannon Rodriguez,64,Male,Marcustown,Business,61650.67,530,2024-11-05,6696.29,No,2002,25,592.63,Yes,5,Medium,Yes
+34821,Jennifer Gallegos,26,Male,East Jillianberg,Business,94020.53,603,2024-10-17,9037.47,Yes,2018,442,730.8,Yes,1,High,Yes
+19722,Martin Anderson,54,Male,South Brandon,Fixed Deposit,83014.91,474,2024-03-17,6634.18,Yes,2003,136,738.68,No,1,High,No
+67988,Audrey Stein,59,Other,West Marychester,Business,39030.07,380,2024-07-02,3941.58,Yes,2021,396,441.03,Yes,5,Low,Yes
+76605,Laura Rios,26,Male,Jenniferburgh,Current,16178.58,768,2024-02-02,3436.75,Yes,2002,192,125.46,No,2,High,No
+91064,Matthew Rice,47,Female,Hatfieldmouth,Savings,54449.03,713,2024-05-27,7123.52,Yes,2007,89,560.5,No,1,Medium,No
+21784,Catherine Welch,74,Male,West David,Business,89267.67,753,2024-05-29,4436.08,No,2021,104,607.0,Yes,0,High,Yes
+26868,Stephen Castillo,26,Other,Joshuahaven,Savings,41871.66,538,2024-03-06,6048.21,No,2020,360,207.17,No,2,High,Yes
+81534,Calvin Lucas,53,Male,Andersonstad,Business,54514.63,527,2024-06-22,6654.56,No,2023,368,938.95,Yes,5,Medium,Yes
+85428,Jennifer Daugherty,72,Male,Williamhaven,Savings,24055.1,619,2024-05-21,3077.11,Yes,2004,435,145.08,Yes,0,High,Yes
+97882,Suzanne Leblanc,49,Other,New Michael,Savings,2860.59,743,2024-07-11,2097.67,Yes,2006,339,147.53,Yes,2,High,Yes
+11083,Jennifer Clark,47,Other,Martinstad,Business,55806.97,364,2024-07-14,7593.92,No,2011,358,987.43,Yes,0,Medium,No
+88003,Brittany Douglas,30,Other,New Travisview,Business,69812.92,333,2024-04-10,4729.48,No,2019,345,686.46,Yes,0,Low,No
+73691,Kelly Simpson,52,Female,West Hannahhaven,Business,63194.48,519,2024-06-29,5641.04,Yes,2000,200,368.48,Yes,5,Medium,Yes
+92886,Paul Zimmerman,25,Male,Lake Kendraberg,Current,16220.24,795,2024-01-20,4328.43,No,2006,375,262.66,Yes,2,High,No
+51033,Mary Mooney,72,Female,North Tracy,Fixed Deposit,58878.6,784,2024-07-02,1961.49,No,2004,154,39.89,No,1,High,No
+10513,Joshua Woods,35,Other,Jayfort,Business,86364.36,796,2024-01-02,3624.74,Yes,2023,345,21.85,Yes,4,Low,Yes
+78583,Christopher Chapman,48,Other,Wattschester,Fixed Deposit,42650.26,837,2024-08-05,9918.85,Yes,2017,389,909.24,Yes,1,High,No
+57314,Adrian Burnett,19,Female,Harriston,Current,55575.36,680,2024-02-29,7280.0,No,2006,377,240.31,Yes,3,Low,Yes
+89892,Emily Charles,25,Male,Brianville,Savings,88334.09,569,2024-06-12,4410.6,No,2011,455,86.65,Yes,5,Low,Yes
+22287,Robert Shelton,75,Female,Port Lori,Current,6341.44,356,2024-02-17,6012.5,Yes,2004,256,304.79,No,4,High,Yes
+31131,Michael Gomez,30,Male,Robertstad,Current,70135.24,638,2024-08-15,1821.77,Yes,2001,123,107.84,No,0,Medium,Yes
+59890,James Perry,57,Other,Ericaview,Current,50292.63,661,2024-04-24,5132.74,Yes,2006,47,326.25,Yes,3,Medium,No
+81585,Raymond Schneider,52,Female,Lake Barry,Current,44476.65,508,2024-05-18,2985.31,No,2020,72,518.4,No,2,Low,No
+95309,Linda Crawford,66,Other,Murphyland,Business,82105.15,791,2024-02-03,9056.47,No,2016,265,448.75,Yes,0,Low,Yes
+92072,Bradley Donaldson,40,Male,New Jennifershire,Fixed Deposit,49405.4,593,2024-02-20,7720.59,Yes,2019,341,497.71,No,0,Low,Yes
+73957,Benjamin Garcia,62,Other,New Jonathanbury,Business,91956.82,647,2024-01-27,7769.32,Yes,2009,425,727.03,Yes,2,Low,Yes
+87310,Michele Smith,26,Male,Lake Robertland,Savings,91045.96,530,2024-05-12,4787.35,Yes,2010,408,499.47,Yes,0,Medium,Yes
+46139,Mary Ward,21,Female,New Evelyn,Savings,85739.53,334,2024-04-22,4248.22,Yes,2017,37,445.8,No,1,Medium,No
+67682,Nicole Lyons,27,Female,Williamton,Current,54574.87,639,2024-09-22,6397.85,No,2018,73,880.76,No,0,High,Yes
+10822,Michelle Campbell,68,Other,New Teresafort,Savings,32562.7,819,2024-06-12,6069.3,Yes,2018,367,90.96,Yes,3,High,Yes
+21555,Mike Jackson,46,Female,Jacobview,Business,93237.76,704,2024-10-05,5976.65,No,2018,299,225.42,Yes,4,Medium,No
+45934,Hannah James,55,Other,East William,Current,80667.15,413,2024-05-02,9619.49,No,2010,218,331.64,No,1,Medium,No
+84134,Betty Rowland,54,Female,Nunezborough,Savings,23458.14,317,2024-02-06,2186.02,Yes,2009,396,912.81,No,0,Low,Yes
+32861,Lisa Gordon,59,Male,Paulside,Business,76261.81,753,2024-10-12,8280.4,Yes,2013,12,847.25,No,2,High,Yes
+66662,Gabriella Campbell,40,Male,North Maxwellport,Current,69915.9,528,2024-10-09,7691.07,No,2002,61,304.82,No,0,Medium,Yes
+82257,Richard Morgan,69,Other,New Brianna,Fixed Deposit,7192.61,793,2024-09-02,4036.02,No,2019,437,811.6,Yes,2,Medium,No
+43040,Jeffery Smith,69,Male,Martinton,Business,5246.34,760,2024-04-21,9295.21,No,2018,155,547.89,No,4,High,No
+84323,Amy Francis,46,Other,Turnershire,Current,29226.51,734,2024-05-13,6288.53,No,2015,432,591.62,No,5,High,Yes
+95395,Brenda Spencer,32,Other,Port William,Fixed Deposit,64710.73,572,2024-01-19,7754.75,No,2018,146,745.83,No,1,Low,Yes
+68868,Elizabeth Osborne,24,Female,Port Joseph,Savings,12562.27,712,2024-03-08,7878.25,No,2020,68,39.4,No,3,High,No
+24544,David Scott,66,Other,East Michaelton,Fixed Deposit,73386.15,696,2024-09-15,9110.25,Yes,2022,480,647.06,No,0,High,Yes
+35450,Kristi Combs,69,Female,New Lisaside,Fixed Deposit,95522.52,661,2024-05-11,2780.9,Yes,2010,13,578.9,Yes,4,Low,Yes
+15765,Andrew Marsh,45,Female,Port Davidshire,Business,65369.52,395,2024-08-27,5493.3,No,2022,319,806.63,Yes,2,Medium,No
+30315,Tony Thornton,19,Female,Ricebury,Fixed Deposit,40106.55,416,2024-11-22,5343.52,No,2003,13,896.58,Yes,1,Low,Yes
+53356,Karen Caldwell,43,Female,South Dustin,Current,39456.8,461,2024-07-17,2018.01,No,2011,83,344.68,No,3,Medium,Yes
+85630,Frank Williams,30,Other,Port Crystal,Fixed Deposit,57928.88,834,2024-02-03,8346.92,No,2006,150,43.01,Yes,2,Low,No
+51959,Jacqueline Miller,51,Male,New Charles,Current,11238.57,533,2024-09-16,8363.93,Yes,2022,106,706.39,No,1,Medium,No
+98206,Ryan Wheeler,27,Female,East Emily,Fixed Deposit,68013.29,669,2024-10-30,6893.92,No,2017,106,460.68,Yes,3,High,Yes
+98982,Kayla Williams,58,Female,Andersonfurt,Business,84580.23,670,2024-05-09,2259.02,Yes,2010,247,693.61,No,2,High,No
+21220,Cameron Kramer,75,Male,Gregorymouth,Fixed Deposit,19287.28,666,2024-06-26,4993.95,No,2006,159,783.02,No,0,Low,Yes
+59852,Joseph Jimenez,73,Female,Kathleenmouth,Savings,83318.33,366,2024-04-15,1766.08,Yes,2003,227,460.71,Yes,1,Low,Yes
+67758,Michelle Barnes,18,Other,East Peggymouth,Business,57367.53,363,2024-03-31,1149.06,Yes,2008,79,430.26,No,0,Low,Yes
+48413,Brett Simpson,54,Female,North Eric,Business,17094.99,436,2024-08-05,9833.19,Yes,2000,137,298.88,Yes,0,Low,No
+15756,Taylor Hutchinson,56,Other,Lake Jamestown,Current,16940.67,787,2024-04-20,5582.47,No,2007,52,39.82,No,0,High,No
+41608,Megan Morgan,41,Female,Shannonfort,Business,11066.13,494,2024-03-04,6138.79,Yes,2004,449,292.62,No,1,High,Yes
+29829,Christine Mendoza,44,Female,Port Richardtown,Fixed Deposit,43662.47,736,2024-04-13,9098.81,No,2003,146,617.43,Yes,3,Low,No
+89888,Stephanie Alexander,18,Other,New Josephfort,Fixed Deposit,22194.48,579,2024-11-11,9673.93,Yes,2015,240,663.55,Yes,5,Medium,No
+93900,Stephanie Shannon,22,Female,West Amberbury,Current,81920.87,737,2024-07-12,2311.99,No,2014,107,343.18,No,3,Low,No
+86329,Erin Gould,36,Female,Johnsonside,Savings,63128.28,735,2024-11-22,9807.24,Yes,2008,247,311.44,No,3,Medium,No
+76511,Dr. Jeffrey Ramos,40,Other,South Jason,Savings,74966.34,400,2024-03-02,8435.05,No,2018,329,814.66,No,5,Low,No
+58179,Devon Thornton,69,Female,North Hannah,Fixed Deposit,62622.1,534,2024-07-17,3881.29,Yes,2021,367,408.54,Yes,4,Medium,Yes
+59516,Paul Aguirre,29,Female,Lake Kellyside,Current,99768.94,588,2024-11-22,2563.31,No,2015,33,179.39,No,0,High,No
+79512,Cassie Hall,63,Other,Mariaside,Savings,97261.64,810,2024-11-15,3323.04,Yes,2016,415,262.32,No,1,High,Yes
+11120,Christopher Tran,72,Male,North Edwardmouth,Savings,80533.64,458,2024-03-05,3563.28,No,2007,487,791.53,No,0,High,No
+48015,John Rollins,37,Other,Shannontown,Fixed Deposit,92191.91,818,2024-01-18,5418.59,Yes,2009,361,611.92,Yes,1,Medium,No
+85069,Gerald Rivera,40,Female,Port Abigail,Business,8249.3,417,2024-06-22,4275.39,No,2023,424,506.9,Yes,1,Medium,Yes
+92867,Jeremy Ryan,30,Female,Leslieport,Current,50846.02,791,2024-09-04,1849.18,Yes,2002,256,517.95,No,3,Low,Yes
+97633,Thomas Parks,47,Male,Carolstad,Current,60187.28,659,2024-10-23,3202.03,No,2007,77,68.68,No,4,Medium,Yes
+87591,Jacqueline Ho,43,Female,Lake Mark,Business,86216.64,757,2024-08-27,3812.73,Yes,2021,325,427.06,Yes,3,High,No
+18773,Hunter Martin,34,Other,Lake Shawn,Business,56322.44,557,2024-07-19,1490.02,Yes,2001,367,418.63,Yes,5,Medium,Yes
+73707,Tina Price,53,Female,New Greg,Current,78138.24,578,2024-10-25,5206.38,Yes,2017,345,455.07,Yes,2,Medium,No
+82511,Joe Foster,74,Female,Reyesville,Savings,15958.74,507,2024-09-10,6304.4,No,2008,112,781.11,No,1,High,No
+62006,Amber Miller MD,43,Female,Jordanstad,Fixed Deposit,71680.84,341,2024-11-16,4727.98,Yes,2001,162,788.55,Yes,1,Low,Yes
+79669,Carolyn Paul,43,Male,Jamesfort,Business,31045.98,339,2024-03-08,7397.73,No,2006,12,839.14,Yes,1,High,Yes
+35583,Robert Lee,36,Female,East Shawnmouth,Fixed Deposit,5370.26,485,2024-11-10,5078.78,Yes,2001,433,769.41,Yes,5,Medium,No
+29127,Adam Jones,46,Male,West Derektown,Fixed Deposit,6310.43,606,2024-05-08,5602.41,No,2002,331,333.99,Yes,1,Medium,Yes
+48814,Kayla Estrada,38,Male,Jonathanbury,Current,54981.24,444,2024-02-16,9368.98,Yes,2014,43,101.93,Yes,5,High,No
+37188,Courtney Henderson,48,Other,Maynardstad,Current,72324.59,633,2024-01-16,9596.04,No,2021,38,636.84,No,4,High,Yes
+11925,Gary Conner,59,Female,Lake Linda,Savings,6375.16,790,2024-09-22,8870.17,No,2006,479,673.43,No,3,High,Yes
+65226,Gregory Smith,39,Other,Sanchezfurt,Business,18419.64,804,2024-07-22,5629.2,Yes,2003,416,972.83,Yes,1,High,Yes
+45786,Scott Warren,40,Other,East Williamberg,Fixed Deposit,59419.65,841,2024-05-28,5860.61,Yes,2004,421,729.61,No,5,Medium,Yes
+35532,Levi Pope,21,Male,East Lindsayborough,Savings,89913.1,738,2024-03-28,9684.68,No,2011,274,352.05,No,5,Low,No
+20968,Daniel Chang,43,Male,New Michaelshire,Current,38725.27,337,2024-04-23,4335.38,Yes,2019,213,660.23,No,4,High,No
+16288,David Gordon,22,Other,Port Stephenville,Current,41377.0,351,2024-06-03,9712.02,Yes,2011,76,915.46,No,3,Low,Yes
+43670,Mackenzie Gutierrez,43,Other,Andersonburgh,Business,12661.91,365,2024-07-13,5494.44,No,2014,315,719.5,Yes,3,Medium,Yes
+30233,Jamie Pope,36,Female,Vanessashire,Business,23360.94,392,2024-09-28,6394.43,No,2014,479,851.59,Yes,3,High,No
+25050,Thomas Garcia,61,Other,Elizabethland,Savings,32348.14,672,2024-09-11,5457.8,Yes,2009,248,326.58,No,3,Medium,No
+36238,Brittany Adams,45,Male,South Mariafort,Current,27696.71,464,2024-09-23,4074.13,No,2006,379,444.53,Yes,5,High,No
+52555,Jacob Mccarty,49,Male,Richardburgh,Savings,71166.28,810,2024-08-24,8687.41,Yes,2022,103,128.09,Yes,0,Medium,Yes
+65960,Lee Ramirez,32,Male,Wubury,Current,87614.25,488,2024-11-15,3063.97,Yes,2006,242,523.31,No,4,Medium,No
+18454,Adam Allen,49,Female,Waltonmouth,Current,680.82,729,2024-01-29,1184.97,No,2019,398,677.71,No,4,High,Yes
+24791,Blake Todd,57,Other,Hollyland,Savings,38670.18,829,2024-06-15,2182.12,No,2001,297,779.57,No,2,Low,Yes
+95230,Chad Lam,31,Male,New April,Business,34215.67,630,2024-01-28,6614.42,No,2013,18,839.85,No,3,Low,Yes
+42350,Carrie Arellano,36,Female,Davidmouth,Current,58699.02,711,2024-06-28,1275.36,Yes,2023,21,775.54,Yes,2,Medium,No
+86201,Ryan Robinson,64,Other,East Michelle,Fixed Deposit,77338.12,306,2024-07-09,3485.15,Yes,2011,330,58.46,Yes,5,High,No
+16601,Terry Williamson,67,Male,Huberport,Business,78417.01,562,2024-07-20,3509.59,No,2010,359,31.79,No,4,Low,Yes
+29895,Michael Reeves,63,Male,West Cynthialand,Current,42329.8,526,2024-10-12,7474.53,Yes,2009,225,242.12,No,3,Medium,No
+81378,Scott Brooks,31,Female,North Mariahborough,Business,20210.06,791,2024-10-31,1836.44,Yes,2000,478,427.15,No,4,High,Yes
+34571,Adrienne Smith,40,Other,Matthewside,Savings,26274.84,582,2024-09-06,5403.6,Yes,2015,206,897.23,No,2,Medium,No
+80969,Krystal Pitts,24,Female,New Angela,Savings,42297.9,690,2024-05-15,3312.58,Yes,2022,70,794.86,No,5,High,Yes
+72499,Johnathan Taylor,53,Female,Georgeshire,Business,47027.13,631,2024-08-01,4794.98,Yes,2003,86,129.07,Yes,2,High,Yes
+78547,Katelyn Lawson,26,Male,Bowmanbury,Savings,66661.98,781,2024-07-02,9579.73,No,2016,281,319.72,Yes,5,Medium,No
+69656,David Lee,57,Other,North Jacobshire,Fixed Deposit,33860.08,472,2024-07-10,2849.01,No,2007,92,240.33,No,4,Medium,No
+85291,Tricia Matthews,45,Other,Clarkfort,Fixed Deposit,2544.83,337,2024-09-11,9001.27,No,2001,168,243.86,No,3,Low,No
+23319,Thomas Jones,19,Male,Melanieside,Fixed Deposit,31417.92,731,2024-08-03,7501.62,Yes,2004,328,627.83,No,0,Medium,Yes
+76606,Angelica Dawson,54,Female,Michaelchester,Business,44653.14,743,2024-07-26,4574.2,Yes,2021,235,567.0,No,2,Medium,No
+89151,Briana Gonzalez,31,Female,West James,Fixed Deposit,93520.41,614,2024-11-09,8535.57,Yes,2014,80,675.96,Yes,0,Low,No
+62830,Jeffrey Fowler,18,Female,Moralesport,Savings,33015.02,313,2024-06-07,5879.36,Yes,2000,475,641.53,Yes,0,Medium,Yes
+77631,James Clark,27,Female,Port Mark,Business,87599.82,301,2024-09-04,1151.58,No,2023,377,50.02,No,5,Medium,No
+63790,Charles Williams,59,Other,Brendaview,Fixed Deposit,54052.17,809,2024-03-16,6039.72,No,2004,486,528.38,Yes,3,Medium,No
+94796,Theresa Buchanan,64,Other,New Stephanieside,Current,20345.22,414,2024-04-28,6770.23,Yes,2018,283,262.9,Yes,4,Low,Yes
+44125,Michael Bradley,27,Other,Brittanyland,Business,77555.29,615,2024-01-05,1945.39,Yes,2018,106,965.89,Yes,3,Medium,Yes
+84620,Robert Hernandez,74,Female,Bautistaborough,Business,10285.05,384,2024-10-02,4591.45,Yes,2023,470,809.46,No,5,Medium,No
+60816,Melinda Gibson,73,Female,West Cheryl,Business,21163.01,673,2024-09-09,4568.42,No,2006,24,697.05,Yes,3,Medium,Yes
+35651,Brandi Jacobs,24,Male,Millerton,Business,20941.07,527,2024-01-17,1411.44,No,2006,89,997.78,Yes,2,Medium,Yes
+71473,John Anderson,43,Other,New Aprilstad,Business,35892.5,615,2024-03-12,8656.85,Yes,2022,311,817.84,No,3,High,Yes
+17502,Barbara Hunt,33,Other,North Charlesside,Savings,82457.46,436,2024-03-18,7062.63,Yes,2003,308,339.86,Yes,0,High,No
+63813,Christopher Mahoney,74,Female,New Destiny,Business,57274.38,455,2024-08-02,2145.48,No,2023,107,776.04,Yes,5,Medium,Yes
+19225,Adam Wolfe,29,Other,New Sergioton,Business,53332.57,407,2024-02-03,3162.5,No,2018,449,875.11,No,4,High,No
+68263,Gabriela Baker,47,Female,West Denisestad,Current,84340.22,430,2024-01-23,7892.05,No,2002,204,47.02,Yes,0,High,Yes
+16282,Rachael Torres,34,Other,Delgadomouth,Fixed Deposit,48865.78,732,2024-01-08,5906.81,Yes,2010,396,105.67,No,4,Medium,No
+27313,Omar Costa,64,Male,Lake Richard,Savings,38404.34,734,2024-01-08,9019.68,Yes,2001,34,549.12,No,5,High,No
+22894,Evan Gutierrez,63,Other,East Brandyhaven,Savings,3057.64,333,2024-03-08,5673.57,Yes,2013,213,143.78,Yes,4,Medium,No
+59734,Ashley Johnson,38,Female,Port Ronaldfort,Business,15985.14,751,2024-08-31,2522.73,Yes,2023,155,853.86,Yes,0,Low,Yes
+90899,James Richard,61,Male,East Brookeburgh,Current,9574.95,818,2024-09-14,4046.57,No,2001,47,916.42,Yes,1,Medium,No
+52276,Tim Jimenez,57,Male,East Stevenview,Business,85894.05,474,2024-08-03,9937.23,Yes,2017,384,395.79,No,2,High,No
+79901,Amber Wilson,57,Male,New Michellechester,Current,22504.72,408,2024-03-19,4312.71,Yes,2008,356,743.4,No,1,High,No
+28180,Justin Lewis,67,Male,Port David,Business,15685.49,713,2024-02-06,5970.4,Yes,2013,240,226.57,Yes,4,High,Yes
+41202,Joseph Wright,75,Other,Brownville,Business,33887.58,479,2024-08-12,4027.06,Yes,2014,279,671.99,Yes,1,High,No
+38086,Mitchell Franco,27,Male,Kelleybury,Current,49818.81,338,2024-04-05,2926.96,No,2003,437,102.08,No,2,Medium,No
+95897,Edward Brooks,56,Male,Kaylachester,Fixed Deposit,80381.44,737,2024-07-11,4466.35,Yes,2014,128,295.43,Yes,2,Low,Yes
+51417,Erica Mitchell,74,Male,Fitzpatrickberg,Savings,71007.87,754,2024-08-22,6736.32,Yes,2017,286,123.97,No,3,Low,Yes
+11835,Lori Torres,45,Female,Lake Johnmouth,Business,54485.41,765,2024-09-03,9297.1,No,2006,296,846.14,No,1,Medium,Yes
+64410,Kristin Carter,52,Male,Lake Sean,Fixed Deposit,32244.55,597,2024-08-22,9014.01,No,2007,22,487.12,Yes,3,Low,Yes
+57630,Elizabeth Bailey,18,Female,Davidmouth,Savings,13090.9,547,2024-03-14,9985.02,No,2016,440,959.91,Yes,2,Low,Yes
+93012,James White,65,Other,Jamesburgh,Fixed Deposit,5063.54,723,2024-08-12,6007.39,No,2002,90,625.98,No,3,High,Yes
+93976,Valerie Chapman,25,Other,Janetfort,Business,44506.05,595,2024-02-18,6676.68,No,2021,389,44.16,No,4,Low,No
+12158,Joan Mann,63,Female,Jacksonside,Fixed Deposit,98277.76,848,2024-10-24,5074.25,No,2002,319,554.28,No,3,Medium,Yes
+32891,Michelle Flores,70,Female,Ryanmouth,Current,45944.82,577,2024-03-04,5759.68,Yes,2011,197,422.09,No,0,Medium,No
+92940,Katrina Schneider,51,Other,New Kristinaport,Fixed Deposit,34752.76,410,2024-04-11,6424.98,No,2005,198,842.37,No,0,Medium,No
+81039,Roberto Castillo,64,Other,South Rose,Current,15982.36,843,2024-03-15,2825.42,No,2004,426,303.61,No,4,High,Yes
+17509,April Collins,49,Other,Jacksonville,Savings,85775.05,644,2024-09-13,8207.72,Yes,2011,350,16.36,Yes,1,Medium,No
+39891,Edward Williams,74,Male,West Robert,Savings,70077.27,558,2024-08-04,7660.12,Yes,2014,205,135.62,Yes,0,Medium,No
+51214,Ivan Johnson,34,Other,New Stephen,Savings,15500.79,561,2024-09-06,7946.46,Yes,2006,349,802.51,Yes,0,High,Yes
+15373,Mrs. Jessica Howard,51,Female,Bakerfurt,Fixed Deposit,704.3,729,2024-06-18,9772.08,No,2008,324,26.73,No,1,High,Yes
+24975,Joanne Tran,68,Other,Hughesborough,Current,34089.97,726,2024-04-15,9411.41,No,2019,472,913.89,Yes,2,Low,No
+74347,Monica Sherman,51,Female,North Mark,Current,95026.19,845,2024-10-09,7389.97,No,2023,428,312.07,No,2,Medium,No
+59185,Jeffery Quinn,38,Male,Warrenside,Business,12052.92,626,2024-09-27,3685.97,Yes,2013,340,832.57,No,0,Low,No
+72120,Kelly Harper,65,Male,Johnsonchester,Current,1927.01,588,2024-05-09,2176.0,No,2016,171,662.92,Yes,5,Low,Yes
+61355,Jacqueline Guerra,59,Female,South Brandonhaven,Current,20886.13,582,2024-03-16,5959.77,Yes,2013,489,697.39,Yes,1,High,No
+59081,Diana Ramos,51,Male,Fisherfurt,Savings,70767.65,701,2024-05-20,2521.17,Yes,2006,154,747.85,Yes,2,Medium,No
+18245,Jasmine Green,57,Other,Rangelhaven,Fixed Deposit,6606.5,797,2024-04-25,7119.47,No,2011,80,499.03,No,1,Low,No
+46007,Jennifer Cox,54,Female,Holmesfort,Savings,55522.23,621,2024-03-18,3967.48,No,2021,410,836.67,Yes,1,Medium,No
+18091,Debra Williams,24,Other,New Matthewton,Current,55448.65,459,2024-11-09,1766.98,Yes,2010,206,143.6,No,2,Low,Yes
+85407,Tina Arnold,71,Female,South Eric,Business,42694.33,690,2024-11-12,8986.33,Yes,2018,456,387.63,Yes,0,High,No
+22694,Cynthia Mcdaniel,31,Other,West Michael,Savings,88925.51,498,2024-08-12,2415.69,Yes,2013,396,166.99,No,1,High,Yes
+67349,Stacie Mendez,26,Male,Ianland,Savings,58330.19,805,2024-05-15,8367.58,Yes,2014,201,656.27,No,3,High,No
+77844,Steven Andrews,30,Other,Port Josephton,Savings,23291.1,747,2024-06-15,1219.08,No,2009,340,718.83,Yes,1,Low,No
+52245,Michael Wise,66,Male,Mccarthyland,Current,48557.52,484,2024-08-31,5694.3,No,2008,285,205.81,No,4,Low,Yes
+93531,Glenda Barrett,61,Female,Emilystad,Fixed Deposit,2449.54,738,2024-04-10,1714.88,No,2016,130,266.0,No,2,High,Yes
+19048,Kenneth Aguirre,66,Female,Sandraport,Business,72149.5,431,2024-11-01,2355.95,No,2010,401,410.38,No,5,Medium,Yes
+70985,Denise Gonzalez,51,Female,Lake Stephenchester,Current,27319.32,444,2024-01-13,2635.71,No,2015,273,719.95,Yes,1,Medium,No
+86301,Aaron Foster,45,Female,Barnesville,Current,6799.72,674,2024-10-20,8291.54,Yes,2021,105,242.04,No,5,Low,Yes
+41687,Matthew Levy,34,Male,Juanberg,Savings,40319.58,479,2024-05-27,9452.88,No,2022,142,863.08,Yes,5,High,Yes
+47772,Shirley Baxter,62,Other,East Ericashire,Fixed Deposit,11819.59,334,2024-07-02,5283.21,Yes,2016,18,383.93,Yes,5,Medium,Yes
+58153,Linda Lewis,69,Other,South Jeffery,Savings,83041.26,446,2024-08-31,3282.54,No,2012,313,642.56,No,2,Low,Yes
+23551,Michael Nichols,34,Female,Justinberg,Savings,41625.96,505,2024-01-30,6427.81,Yes,2005,252,147.1,Yes,3,Low,Yes
+29655,Cody Vaughn,74,Other,Port Markton,Current,615.46,772,2024-04-26,5100.53,No,2023,44,437.8,No,5,High,No
+57021,Sarah Gallegos,68,Female,Andrewmouth,Savings,79274.58,830,2024-09-05,5897.56,Yes,2018,412,900.76,Yes,3,Low,No
+61461,David Morgan,67,Male,Adamport,Savings,12009.07,665,2024-07-25,1948.44,Yes,2018,406,501.41,No,4,Low,Yes
+87233,April Grant,25,Female,Goodmanmouth,Fixed Deposit,62612.12,711,2024-11-02,6125.46,No,2014,83,528.39,Yes,3,High,No
+75667,Wanda Hobbs,41,Other,Lake Lisa,Current,93755.04,668,2024-08-31,8335.8,Yes,2023,405,286.16,Yes,5,High,Yes
+62452,Jasmine Huber,67,Other,New Michelle,Current,30550.74,705,2024-01-25,9980.58,No,2007,90,118.13,No,2,Low,No
+85213,Evan Alvarez,70,Male,Garciaburgh,Business,73790.28,321,2024-10-15,8931.53,Yes,2004,46,141.84,No,4,High,Yes
+37423,David Davis,61,Male,Fieldsmouth,Fixed Deposit,66199.25,318,2024-08-29,6194.29,No,2012,209,300.07,Yes,3,Medium,No
+35946,Ian Thompson,42,Female,Lake Gregoryport,Savings,2303.88,343,2024-11-22,3166.07,Yes,2004,79,500.86,No,1,High,Yes
+34123,Richard Fields,51,Male,West Christine,Business,78207.84,555,2024-02-01,9353.47,No,2000,329,375.67,Yes,0,High,No
+88525,Scott Orr,47,Other,Williamstown,Fixed Deposit,72717.45,510,2024-11-18,2052.8,Yes,2015,70,482.95,No,2,Medium,Yes
+97201,Shane Butler,75,Female,Jennifershire,Current,82772.83,719,2024-02-18,5693.22,No,2020,355,101.19,Yes,1,Medium,No
+51121,Maria Wagner,70,Female,Port Allisonton,Fixed Deposit,2530.93,694,2024-01-25,1616.33,Yes,2022,253,622.15,Yes,1,High,No
+88879,John Harrell,28,Male,West Angelica,Current,7516.24,304,2024-04-08,6460.31,No,2022,343,993.87,No,1,High,No
+18951,Amanda Brown,25,Male,Angelaport,Savings,6675.53,318,2024-02-16,4712.21,Yes,2008,44,446.85,No,5,Medium,Yes
+93068,Vicki Smith,74,Female,Lake Taraview,Fixed Deposit,60658.89,562,2024-10-17,7478.42,Yes,2005,429,587.87,No,1,High,Yes
+31504,Angelica Woods,30,Other,West Dawn,Business,11148.63,437,2024-08-03,6414.56,Yes,2012,315,456.06,Yes,5,High,No
+44272,Patricia Maxwell,62,Other,New Emilymouth,Savings,72909.53,608,2024-10-03,8430.34,Yes,2011,205,868.62,Yes,1,Medium,No
+38763,April Hansen,73,Female,West Kennethstad,Savings,8962.97,490,2024-03-24,1620.68,Yes,2003,391,685.44,Yes,5,High,No
+10140,Scott Gonzalez,31,Other,Raystad,Business,99992.59,443,2024-04-05,9166.78,Yes,2003,100,760.7,Yes,1,Low,Yes
+15148,Juan Collins,55,Female,New Andrewtown,Fixed Deposit,90957.09,802,2024-01-16,7722.9,No,2022,233,101.69,No,4,High,Yes
+57109,Timothy Hull,73,Female,Morganfort,Business,76599.41,729,2024-04-23,2897.07,Yes,2002,401,289.95,Yes,3,Low,Yes
+33188,Bradley Potter,32,Other,Angelamouth,Savings,81146.31,589,2024-04-11,8269.0,No,2002,163,414.65,Yes,2,Low,No
+20452,Jeffrey Holt,37,Other,Bethbury,Business,52622.63,680,2024-03-21,1787.47,Yes,2001,335,164.73,Yes,2,High,No
+66904,Desiree Atkinson DVM,64,Female,Callahanstad,Current,73449.55,419,2024-08-26,9600.97,Yes,2002,326,385.25,No,0,Medium,Yes
+65906,Leah King,75,Male,Port Rachelfort,Current,3267.76,377,2024-02-02,4063.21,Yes,2023,325,210.0,No,3,High,No
+78075,Erin Williams,29,Other,East Richardton,Current,62856.65,562,2024-02-19,2855.27,Yes,2001,441,213.4,Yes,1,High,No
+86039,Nathaniel Black,51,Other,Boydmouth,Savings,65396.79,561,2024-07-14,5496.08,No,2017,377,288.12,No,3,High,Yes
+92980,Paul Warren,33,Other,Obrienland,Current,18493.57,364,2024-03-30,7938.13,No,2017,365,228.2,No,3,Medium,No
+73032,Megan Harris,43,Male,New Jesse,Fixed Deposit,91553.44,575,2024-06-19,8718.21,No,2002,373,951.01,Yes,4,Medium,No
+76781,Jack Curtis,42,Female,New Madison,Fixed Deposit,93750.86,483,2024-07-20,8861.33,Yes,2012,314,314.91,Yes,2,Low,Yes
+83026,Mr. Brett Anderson Jr.,32,Male,Booneberg,Fixed Deposit,15198.91,616,2024-06-30,4109.98,No,2013,305,374.01,No,0,Low,No
+66165,Hayden Short,57,Female,East Lauren,Business,46808.75,452,2024-06-13,2429.75,No,2000,381,701.22,No,3,Medium,No
+62709,John Foster,65,Other,Karenfurt,Current,96324.11,745,2024-07-02,2114.52,No,2017,348,679.76,Yes,0,High,Yes
+69133,Janet Miller,33,Other,Jonesland,Fixed Deposit,37692.94,324,2024-03-28,5660.29,No,2010,317,665.16,Yes,2,Medium,No
+81926,Nicole Bryant,48,Male,Bradleyshire,Savings,70578.67,831,2024-03-07,3591.7,Yes,2016,364,452.06,No,2,Low,Yes
+58015,Erin Holt,22,Male,Cooperhaven,Savings,43144.13,450,2024-02-21,5206.86,No,2021,109,993.53,Yes,2,High,Yes
+91695,Aaron Faulkner,49,Female,Port Jeff,Current,10627.8,776,2024-04-08,5699.12,Yes,2016,146,701.86,Yes,3,Low,Yes
+60107,John Compton,72,Other,Nicholsstad,Fixed Deposit,63496.29,310,2024-04-22,8811.51,Yes,2006,188,865.18,No,2,Medium,No
+35987,Victoria Ball,49,Male,Scottland,Current,25063.94,758,2024-10-30,7030.94,Yes,2018,213,959.0,No,4,Low,No
+81043,Javier Barrett,19,Male,Justinfurt,Business,58952.77,847,2024-07-05,2239.88,No,2019,158,610.8,Yes,0,Low,No
+26592,Brenda Rivera,58,Other,New Deborahbury,Business,15782.71,658,2024-01-03,3796.79,No,2012,363,51.93,Yes,1,Low,No
+12265,Monica Miller,18,Other,North Michael,Savings,85019.9,755,2024-03-22,4713.82,Yes,2003,327,116.77,Yes,5,High,Yes
+77128,Joseph Black,32,Female,North Miranda,Business,44734.27,479,2024-08-25,1690.25,Yes,2021,235,44.38,Yes,5,High,No
+10704,Sheila Mejia,69,Other,West Laurachester,Business,59450.78,473,2024-05-31,9440.84,No,2012,172,830.8,No,5,High,No
+29906,Danny Castillo,49,Male,Port Yesenia,Business,25908.45,681,2024-06-17,1553.53,Yes,2003,137,276.02,No,3,High,Yes
+36628,Matthew Page,57,Female,Mejiafort,Savings,77632.23,694,2024-07-21,8756.6,Yes,2019,189,236.68,Yes,1,Medium,No
+99361,Crystal Meyers,70,Female,North Morgan,Business,77345.34,790,2024-11-12,9623.81,Yes,2001,333,126.23,No,5,High,No
+21540,Andre Hughes,56,Male,Robertburgh,Fixed Deposit,21266.01,400,2024-07-07,4532.85,Yes,2002,23,315.92,Yes,4,Medium,Yes
+47430,Candice West,66,Male,Stephaniemouth,Business,24680.41,481,2024-04-07,3251.22,Yes,2007,114,704.8,No,3,Low,Yes
+15910,Julie Harrison,65,Male,New James,Current,96389.73,472,2024-06-19,4888.35,No,2002,278,642.38,No,2,Medium,Yes
+41539,Catherine Richardson,66,Male,South Jenniferborough,Current,66663.2,536,2024-03-13,1719.84,No,2013,274,664.17,No,3,Low,No
+73752,Samantha Lynch,24,Female,South Amandatown,Fixed Deposit,27503.87,562,2024-03-21,3727.67,No,2013,98,56.64,No,1,Medium,Yes
+39959,Carol Ibarra,61,Male,New James,Current,99153.66,788,2024-10-01,1907.92,Yes,2001,66,464.11,Yes,3,High,No
+53132,Stacey Wells,23,Female,Marchaven,Fixed Deposit,24438.18,803,2024-03-27,9470.17,No,2016,418,448.54,No,0,Medium,No
+57205,Deborah Stevenson,61,Female,Lake Matthewfurt,Savings,29130.65,336,2024-01-31,7401.49,Yes,2001,221,926.7,No,1,Low,Yes
+68004,Morgan Salazar,29,Female,Wangton,Fixed Deposit,37775.4,613,2024-03-04,5785.09,No,2020,120,198.72,Yes,2,Low,No
+69754,Daniel Li,46,Other,Dannyhaven,Fixed Deposit,50620.8,756,2024-08-05,3799.44,Yes,2022,408,929.53,Yes,5,High,Yes
+59763,Sara Simpson,63,Other,Lawrenceborough,Current,10645.45,632,2024-05-29,3292.77,Yes,2009,481,808.72,No,5,Medium,Yes
+77939,James Raymond,49,Male,Garymouth,Current,16962.62,546,2024-03-21,6813.04,Yes,2002,411,310.28,Yes,4,Medium,Yes
+20589,Joshua Allen,39,Female,North Nathan,Fixed Deposit,93962.55,558,2024-10-28,4402.1,Yes,2003,214,780.23,Yes,4,High,Yes
+99768,Stephanie Collins,60,Other,Port Anna,Current,3492.79,804,2024-08-18,9209.2,No,2008,207,532.1,No,0,Medium,Yes
+84380,Matthew Mckinney,34,Other,New Amberhaven,Fixed Deposit,85370.82,355,2024-06-02,5481.35,Yes,2013,82,925.92,No,1,High,Yes
+84216,Scott Bowman,26,Female,Gregoryburgh,Savings,44135.73,806,2024-06-21,2946.98,Yes,2008,47,427.11,Yes,0,High,No
+57299,Michelle Carter,27,Male,Villarrealport,Savings,73381.35,828,2024-05-13,6351.01,Yes,2022,108,954.13,No,4,Low,Yes
+97936,Emily Klein,19,Female,East Cody,Current,11782.7,479,2024-06-03,7153.68,No,2008,437,492.83,No,2,Low,No
+92564,Stephanie Carter,21,Female,West Marissaburgh,Fixed Deposit,87464.07,318,2024-07-18,8954.88,Yes,2006,55,424.31,No,0,Low,No
+59678,Brandon Blair,40,Male,Bartontown,Business,64139.85,533,2024-09-30,7635.24,No,2003,241,628.04,No,0,Medium,No
+13793,Michelle Torres,52,Male,Blakemouth,Fixed Deposit,14465.19,354,2024-10-24,6114.66,Yes,2008,385,934.21,No,3,Medium,Yes
+78867,Alexa Andersen,22,Other,North Michaelfurt,Business,10094.61,718,2024-01-22,7309.62,No,2003,486,907.3,Yes,0,Low,Yes
+88283,Tammy Martinez,51,Other,Mcmillanborough,Current,77603.88,774,2024-01-21,6263.98,No,2019,249,278.59,Yes,4,Low,No
+82477,Erin Ramos,20,Female,Hubbardbury,Business,37843.09,783,2024-09-27,1245.45,No,2000,246,392.51,No,2,Low,No
+23364,Jasmine Medina,42,Male,Wintersfort,Current,33599.06,467,2024-07-14,9148.38,Yes,2016,135,465.92,Yes,5,Medium,Yes
+60530,Lisa Zamora,57,Other,Raybury,Savings,35884.8,610,2024-07-18,4770.72,Yes,2010,88,641.13,No,5,Medium,No
+14134,Kim Shaw,67,Male,Kennethtown,Current,74099.3,817,2024-04-26,3425.6,No,2007,173,625.34,Yes,3,Medium,No
+38024,Thomas Fernandez,65,Other,Lake Kathy,Savings,54106.38,768,2024-01-07,2720.58,No,2012,278,14.88,No,2,High,No
+16800,David Roy,48,Female,North Mary,Current,87873.73,849,2024-08-02,5805.56,No,2008,39,122.57,Yes,0,High,No
+62095,Melissa Cameron,64,Female,South Timothymouth,Savings,3343.11,514,2024-07-31,2509.27,Yes,2003,76,506.14,No,4,High,No
+60494,Victor Hansen,30,Male,Riosmouth,Savings,79583.53,679,2024-04-04,6600.68,No,2004,382,304.97,No,2,High,Yes
+66909,Sarah Ochoa,65,Female,Escobarborough,Fixed Deposit,51946.93,624,2024-05-25,5709.98,Yes,2014,123,756.16,No,2,Medium,No
+77108,Charles Rodriguez,34,Female,Lewisview,Savings,90778.06,368,2024-06-28,2403.87,No,2010,298,321.65,Yes,2,High,No
+86889,Rodney Leach,53,Other,Petersonview,Current,90028.26,678,2024-07-06,8056.18,Yes,2015,199,483.62,Yes,4,High,Yes
+40653,John Singh,24,Female,Shawnside,Current,6940.94,409,2024-08-07,2204.99,No,2001,209,362.0,Yes,0,Low,No
+52761,Renee Diaz,60,Female,Thomasville,Fixed Deposit,10291.52,751,2024-10-24,6640.62,No,2005,151,490.86,Yes,2,Low,Yes
+48216,Samantha May,65,Other,North Casey,Current,45190.76,377,2024-01-29,5643.66,No,2016,220,635.82,Yes,3,High,No
+68588,Dr. John Nash DDS,26,Other,Lisabury,Fixed Deposit,43167.69,685,2024-05-21,7816.59,No,2001,192,373.18,No,5,Low,Yes
+59230,Melissa Spencer,35,Other,East Melissaview,Fixed Deposit,5238.08,615,2024-11-05,2459.35,Yes,2007,62,548.26,No,3,Low,No
+84500,Richard Fisher,71,Female,Brownchester,Business,61174.35,503,2024-04-15,8463.45,Yes,2005,190,857.5,No,5,Low,Yes
+16131,Edward Robbins,58,Other,East John,Fixed Deposit,98526.84,713,2024-01-17,6232.03,No,2011,193,282.53,Yes,2,High,Yes
+64850,Stephanie Ramos,37,Male,Burtonfort,Current,32908.2,662,2024-08-04,1246.29,Yes,2018,329,830.22,Yes,4,Medium,No
+56371,Sandra Pierce,57,Other,North Marie,Current,13029.63,709,2024-04-16,5040.49,No,2016,443,243.21,No,5,Low,No
+85200,Chelsea Cooper,75,Other,East Frank,Business,94162.25,334,2024-11-19,5891.44,No,2006,253,824.66,Yes,5,High,Yes
+57540,Crystal May,42,Other,Johnsonstad,Business,62251.2,496,2024-03-17,2017.6,No,2001,169,123.3,No,0,Low,Yes
+91898,Brooke Green,44,Female,North Nicholasport,Current,97252.12,300,2024-10-28,4008.18,No,2017,94,755.1,No,4,Medium,No
+94328,John Montoya,74,Male,Grimesshire,Savings,39774.5,596,2024-08-18,7582.35,No,2004,477,147.97,No,4,Medium,No
+96897,Joshua Davies,20,Other,East Tiffany,Business,40996.69,759,2024-03-31,7345.41,No,2014,147,625.21,No,0,Medium,Yes
+33185,Wendy Jacobson,37,Male,Kelliborough,Savings,78418.99,706,2024-02-14,9839.18,Yes,2006,15,73.82,No,4,Medium,Yes
+16510,Victoria Graham,24,Other,North Eric,Fixed Deposit,9411.74,320,2024-06-24,8095.2,Yes,2013,150,20.68,No,2,Low,Yes
+18439,Tyler Carpenter,66,Other,Port Catherine,Current,17492.9,427,2024-01-04,7966.83,No,2015,452,222.74,No,2,Low,Yes
+75381,Justin Morris,25,Male,Bryantport,Current,50484.96,533,2024-02-12,8540.98,Yes,2015,386,682.44,No,3,Medium,No
+91381,Nicole Odonnell,32,Female,North Patricia,Current,88285.69,400,2024-11-15,8755.33,No,2011,99,967.74,Yes,1,High,Yes
+73430,Monica Baker,33,Female,Perryport,Current,94392.33,457,2024-02-20,6233.83,Yes,2011,280,852.33,Yes,2,Low,Yes
+34298,Corey Owen,59,Other,Julieville,Savings,80532.72,597,2024-09-24,7328.5,No,2006,62,123.3,Yes,0,Low,No
+75599,Tammy Butler,34,Male,South Amanda,Current,7731.92,318,2024-08-01,8780.24,No,2018,353,74.48,No,3,Low,No
+53466,Deborah Webb,57,Female,West Abigail,Current,54941.74,752,2024-01-18,6822.2,Yes,2010,126,996.06,Yes,2,Low,No
+76832,Trevor Perez,56,Male,Williamberg,Current,81932.87,493,2024-06-03,1612.4,No,2009,75,593.05,No,1,High,No
+36663,Brandon Hernandez,40,Other,Barnesborough,Business,84597.55,623,2024-10-14,8434.06,Yes,2017,451,417.63,No,5,Medium,No
+71535,Sharon Ellis,67,Other,Allenbury,Business,93670.24,709,2024-11-17,4863.77,Yes,2017,245,172.24,Yes,5,High,Yes
+34233,Jennifer Martinez,70,Male,Donaldborough,Business,90100.43,431,2024-03-03,7582.05,Yes,2004,457,324.89,No,2,Low,Yes
+13043,Kelly Berry,26,Male,East Alexandraport,Current,89110.37,577,2024-09-15,1356.16,Yes,2005,298,607.57,Yes,4,Medium,No
+30813,Tanya Simpson,51,Female,Port Richardmouth,Business,50644.5,485,2024-03-06,9949.6,No,2003,9,570.01,No,1,High,Yes
+47033,Edward Hamilton,52,Other,West Mindy,Savings,86434.19,489,2024-05-15,9924.39,Yes,2019,259,848.93,No,0,Low,No
+70964,Michelle Collins,50,Other,Brownburgh,Business,32869.26,841,2024-04-21,4477.56,Yes,2004,349,141.68,Yes,0,Low,Yes
+19052,Ronnie Vasquez,47,Other,Lake Ashley,Current,89045.12,818,2024-05-22,2075.02,Yes,2002,173,430.85,Yes,0,Medium,No
+46304,Catherine Ross,62,Other,Lake Jennifer,Savings,42761.84,569,2024-03-26,1057.51,No,2018,173,315.09,No,4,Low,No
+66782,Madison Lee,75,Other,Michaelmouth,Fixed Deposit,83183.53,691,2024-09-04,3525.15,Yes,2019,284,484.86,No,0,Medium,Yes
+41347,Sandra Salinas,42,Other,Danielshire,Business,47625.12,399,2024-09-03,9252.58,No,2003,148,161.45,Yes,3,Low,Yes
+14234,Richard Little,65,Other,Jenniferfurt,Fixed Deposit,84882.07,472,2024-03-07,8738.62,No,2012,416,528.93,Yes,5,Medium,Yes
+32622,Joshua Flores,25,Other,West Peter,Savings,78884.57,613,2024-06-30,2482.52,No,2014,96,343.16,No,0,High,No
+85807,Scott Mitchell,72,Other,North Natalie,Business,33349.82,324,2024-10-24,1316.85,No,2009,3,285.64,Yes,3,Medium,Yes
+76874,Jorge Rosales,43,Male,South Cynthiachester,Business,69006.15,726,2024-01-17,6722.38,No,2001,104,250.6,Yes,1,Low,Yes
+17845,Deborah Kennedy,19,Male,Kempmouth,Current,61380.22,319,2024-04-05,1229.83,Yes,2005,149,156.08,Yes,4,Medium,No
+36212,Phillip Gibson,53,Female,Matthewview,Fixed Deposit,16478.09,469,2024-02-14,3918.87,Yes,2015,440,128.8,Yes,5,Low,No
+90541,Scott Pacheco,75,Other,Lake Michaelberg,Savings,69198.28,756,2024-09-02,6761.24,Yes,2008,7,286.59,No,1,Medium,No
+54410,Amy Davis,51,Other,Carolinemouth,Business,78077.11,623,2024-10-03,5915.41,No,2005,124,161.04,Yes,2,High,No
+74819,Erin Hoffman,35,Female,Hubbardburgh,Current,23647.01,406,2024-01-07,6939.02,Yes,2013,422,659.42,Yes,1,Medium,No
+74954,Timothy Ferguson,38,Male,South George,Fixed Deposit,38799.31,748,2024-01-27,8164.5,No,2023,294,50.0,Yes,0,Low,Yes
+82111,Katherine Johnson,33,Male,Lake Shirleyhaven,Fixed Deposit,27033.69,522,2024-06-18,8154.17,Yes,2009,211,288.01,No,2,Medium,Yes
+43168,Kelly Mcintosh,40,Female,Stoneberg,Business,5294.3,384,2024-06-21,5145.06,Yes,2011,353,930.24,No,5,Low,Yes
+97647,Anthony Carrillo,41,Male,Shaneburgh,Fixed Deposit,40115.93,352,2024-10-16,6922.23,Yes,2019,357,76.92,Yes,1,Low,Yes
+72704,Chelsea Fitzgerald,48,Female,East Nathan,Business,34511.29,726,2024-11-05,3603.26,Yes,2004,211,904.27,Yes,5,Low,Yes
+29126,Cheryl Johnson,41,Male,South Thomasview,Savings,63855.04,754,2024-04-27,1145.86,Yes,2009,375,915.58,No,4,Medium,Yes
+84532,Jonathan Cameron,36,Other,Davilafort,Business,56157.78,732,2024-05-01,8077.18,No,2009,394,543.82,No,4,Medium,Yes
+85598,Pamela Anderson,42,Other,Jamesport,Current,92095.87,642,2024-05-06,3610.66,No,2001,316,300.17,Yes,4,High,No
+53195,Kyle Francis,30,Male,South Alexandraside,Savings,84157.3,753,2024-06-21,7290.44,No,2010,62,195.97,No,3,High,Yes
+82605,Manuel Jimenez,41,Female,Teresamouth,Savings,32055.34,597,2024-04-23,9660.74,No,2018,145,628.39,Yes,1,High,Yes
+35696,Tony Taylor,44,Female,New Christopherbury,Current,10185.88,403,2024-06-13,9055.78,Yes,2003,44,795.6,No,1,Medium,Yes
+54336,Matthew Montes,37,Male,Port Andrewhaven,Business,49760.65,390,2024-05-12,9517.48,Yes,2004,413,959.04,No,0,High,No
+60231,Shelly Smith,75,Other,Medinaville,Current,97055.36,344,2024-03-01,8342.98,Yes,2021,305,354.47,Yes,3,High,No
+82459,Shane Mcfarland,46,Other,Maryberg,Fixed Deposit,66936.71,578,2024-06-06,4820.12,No,2019,456,162.4,No,0,High,Yes
+54659,Christopher Evans,24,Other,South Melissa,Business,1808.49,342,2024-08-23,7448.77,Yes,2000,378,66.45,Yes,5,Medium,No
+47738,Leroy Hampton,32,Female,West Jeffrey,Fixed Deposit,89535.48,305,2024-04-05,2450.63,Yes,2000,292,100.07,Yes,1,Medium,Yes
+37778,Lori Shelton,67,Female,South Dorothy,Business,90377.31,406,2024-09-18,8447.02,No,2013,497,139.0,Yes,4,High,No
+97026,Darrell Ellis,33,Female,South Elainehaven,Fixed Deposit,58841.58,602,2024-06-23,1138.45,No,2018,494,110.18,No,4,Medium,No
+58039,Daniel Ramirez,23,Female,South Kevinbury,Current,94233.53,769,2024-04-26,2792.82,No,2022,312,710.54,Yes,3,Low,No
+41826,Kelly Alvarez,36,Female,North Cindyport,Business,30777.59,547,2024-06-17,1906.63,Yes,2013,87,77.77,No,4,High,Yes
+39649,Nancy Smith MD,44,Male,Port Allisonview,Fixed Deposit,11241.04,430,2024-11-05,2661.6,Yes,2013,172,60.12,No,2,High,Yes
+35862,Richard Kerr,60,Male,Roberttown,Current,22836.45,356,2024-06-17,5232.47,Yes,2005,81,424.18,No,2,Medium,No
+63272,Gerald Johnson,52,Female,Wallaceville,Savings,6905.71,408,2024-02-11,7523.43,Yes,2022,286,363.62,Yes,5,High,Yes
+83411,Ruth Walters,67,Male,Salazarland,Current,65239.85,752,2024-07-10,9856.49,Yes,2014,385,971.52,No,5,Low,Yes
+89298,Alexandra Henry,43,Female,Lake Sean,Fixed Deposit,93272.48,613,2024-02-25,8260.39,Yes,2015,351,217.87,No,2,Low,No
+20008,Alicia Wright,33,Other,Lake Lauren,Fixed Deposit,83741.89,539,2024-08-10,6732.41,Yes,2022,420,541.99,No,5,High,Yes
+28968,Cody Camacho,41,Other,North Annetteville,Savings,77023.51,463,2024-07-31,7246.85,No,2007,99,118.84,No,3,Low,Yes
+65095,Kimberly Wilson,53,Male,Johnmouth,Savings,55208.11,484,2024-04-03,3106.16,Yes,2015,32,921.39,No,5,Medium,No
+11138,Patrick Williams,66,Other,Garciahaven,Savings,37303.69,800,2024-05-11,3829.28,Yes,2006,103,999.12,Yes,2,Low,Yes
+49421,Nicholas Frost,74,Female,Brianside,Savings,98030.03,841,2024-05-29,5469.42,No,2016,146,521.88,No,5,Medium,No
+87208,Kim Wilkinson,57,Other,West Christophertown,Business,45171.75,729,2024-05-08,5575.55,No,2023,93,512.65,No,3,Medium,No
+52677,Kayla Lewis,19,Male,Johnstad,Fixed Deposit,68631.67,311,2024-03-23,2340.79,No,2020,71,334.8,Yes,0,Medium,No
+92514,Laura Campbell,47,Male,South Tinaville,Fixed Deposit,31639.69,812,2024-05-31,3326.0,No,2006,83,102.57,No,3,High,No
+86625,Anthony Ward,42,Other,Richardsonfort,Current,95835.08,485,2024-09-07,1747.64,No,2023,258,660.47,Yes,1,Low,Yes
+53143,Wendy Allen,27,Other,Lake Scottfort,Business,79829.35,449,2024-02-25,4250.05,No,2021,369,792.79,No,2,Medium,Yes
+61510,Jack Coleman,53,Male,Lake Angelica,Current,68650.51,456,2024-10-10,6820.77,No,2004,91,867.71,No,5,High,Yes
+68487,Richard Cervantes,27,Other,Lake Laurenville,Current,90686.02,367,2024-09-13,9134.51,No,2010,458,125.76,Yes,4,Medium,No
+33502,Christopher Reese,66,Female,East Kimberlychester,Business,77807.45,741,2024-11-08,6603.63,Yes,2012,87,935.21,No,5,Medium,No
+22041,Andrew Lee,25,Male,Lake Barbaraville,Business,28000.66,784,2024-02-07,2858.39,No,2013,135,429.88,Yes,2,Low,Yes
+65846,Daniel Wilson,44,Male,Ryanview,Current,49120.45,590,2024-03-24,7984.35,Yes,2004,322,597.28,No,1,Low,No
+40387,Christopher Taylor,31,Male,Simonland,Current,34948.89,456,2024-04-10,1539.47,No,2007,163,340.59,No,3,Medium,Yes
+86441,William Fleming,54,Female,Sextonmouth,Savings,64985.47,548,2024-04-01,1611.8,Yes,2010,385,116.15,No,5,Low,No
+17691,Mario Matthews,36,Male,Lake Michelleberg,Current,5513.48,783,2024-08-02,2393.7,Yes,2022,448,183.59,No,5,High,No
+62618,Isabel Johnston,36,Male,Port Julieland,Fixed Deposit,81420.62,619,2024-04-20,4514.19,Yes,2013,480,805.92,No,2,Medium,Yes
+37998,Jennifer Williams,73,Female,New Robert,Business,97069.3,605,2024-02-13,1995.95,Yes,2014,215,649.75,No,4,High,No
+65591,Melanie Lyons,64,Other,South Kathleen,Fixed Deposit,7479.28,738,2024-01-18,6217.65,Yes,2012,234,296.01,No,0,Medium,No
+88261,Janet Estrada,52,Male,New Lindaview,Business,54087.52,437,2024-05-09,8335.35,No,2007,71,140.58,No,5,Low,No
+55765,Caroline Hunter,53,Other,East Nathanport,Current,92672.58,778,2024-06-28,3473.63,Yes,2019,428,616.06,Yes,4,High,Yes
+70362,Brian Smith,43,Female,North Courtney,Current,89726.59,653,2024-05-07,5347.97,No,2003,147,948.44,No,2,Low,No
+30261,Brianna Peterson,28,Male,Youngbury,Fixed Deposit,83456.98,604,2024-10-04,8726.84,No,2012,155,900.87,Yes,2,High,No
+23985,Sherry Smith,74,Male,West Karen,Current,42867.86,584,2024-06-25,7681.39,No,2000,500,695.12,No,0,Low,No
+93575,Joseph Long,43,Female,Ruizfurt,Fixed Deposit,72748.99,616,2024-02-16,3325.59,No,2002,345,671.69,Yes,5,Medium,Yes
+27940,Jeremy Ward,69,Male,West Erik,Fixed Deposit,10702.84,685,2024-08-24,2494.98,Yes,2007,94,37.47,Yes,0,High,Yes
+83803,Mrs. Pamela Acevedo,74,Female,West Colleenport,Savings,78374.54,793,2024-02-18,6788.44,No,2007,420,768.43,No,0,High,Yes
+62885,Jordan Potter,36,Male,South Lisaport,Business,44412.29,689,2024-04-29,8829.08,Yes,2013,22,232.81,No,5,High,Yes
+95648,William Thompson,48,Female,East Regina,Fixed Deposit,13096.55,780,2024-06-01,2543.87,Yes,2002,417,589.92,Yes,4,Medium,Yes
+44982,Kurt Holmes,23,Male,North Taylor,Savings,90597.18,597,2024-02-26,5191.7,Yes,2002,460,266.29,No,3,Medium,No
+78691,Amanda Hale,48,Other,East Judy,Business,37921.3,300,2024-06-30,2025.91,Yes,2017,437,428.17,Yes,5,Medium,No
+80298,Candice Turner,71,Male,Rogersberg,Savings,29695.38,657,2024-01-17,7981.34,No,2015,386,56.49,Yes,5,High,Yes
+37345,Samantha Warner,30,Other,South William,Fixed Deposit,83300.18,460,2024-11-11,7816.73,No,2011,245,169.02,Yes,3,Low,Yes
+60800,Carla Hays,46,Male,New David,Fixed Deposit,7429.54,549,2024-02-22,3104.46,No,2011,257,484.54,Yes,3,Low,No
+53460,Emily Webb,75,Female,Port Erinfort,Savings,29035.25,417,2024-01-23,5970.84,No,2015,377,515.03,Yes,2,High,No
+61321,Matthew Peterson,19,Other,North Peterfurt,Fixed Deposit,6377.2,492,2024-02-13,3572.49,No,2003,200,480.97,No,2,Medium,Yes
+53685,Frank Chan,41,Other,East Josephberg,Business,44030.03,567,2024-05-04,6037.24,Yes,2019,57,703.43,Yes,1,Medium,Yes
+24732,Margaret Stewart,63,Male,Lake Jessica,Current,83954.9,744,2024-04-01,2874.58,No,2009,252,151.47,Yes,5,Medium,Yes
+66928,Douglas Powell,72,Male,Port Michele,Business,23653.14,522,2024-04-17,6505.42,Yes,2007,109,414.97,Yes,2,Low,No
+44054,Lisa Garcia,35,Female,Lisaview,Business,825.4,715,2024-06-09,7944.44,Yes,2007,416,911.42,No,1,Low,Yes
+45936,Jacob Park,53,Male,South Lisafurt,Fixed Deposit,621.17,705,2024-06-01,1095.98,Yes,2001,472,828.35,No,0,Medium,No
+88615,Donald Black,33,Male,Stacyfurt,Fixed Deposit,51669.12,592,2024-03-04,2359.41,Yes,2001,230,738.49,Yes,5,High,Yes
+82838,Kathy Anderson,54,Other,Pottston,Business,7391.5,601,2024-05-08,6543.63,Yes,2013,499,404.93,No,3,Medium,No
+47840,Veronica Davis,70,Female,Markburgh,Fixed Deposit,58081.66,369,2024-03-30,7858.58,No,2012,431,818.99,No,5,Medium,Yes
+84562,Mr. Phillip Lowery,18,Male,Leeside,Fixed Deposit,54895.96,478,2024-07-19,5431.04,No,2016,354,361.98,Yes,1,Low,No
+30955,Jeffery Becker,50,Female,East Edward,Savings,34025.27,625,2024-02-06,9519.91,Yes,2009,232,382.12,Yes,5,High,No
+70974,Brian Yates,37,Other,Amyland,Savings,22726.24,392,2024-02-21,9410.55,No,2014,142,237.05,No,0,Low,No
+11204,Heather Woodward,29,Female,Maynardborough,Savings,43573.83,821,2024-07-02,5614.13,No,2005,12,647.73,Yes,1,High,Yes
+15247,Daniel Silva,75,Female,Port Melanieview,Fixed Deposit,92933.18,706,2024-04-24,7824.6,Yes,2005,461,259.17,Yes,1,High,No
+72377,John Davis,25,Female,Morganside,Savings,54079.2,384,2024-01-08,6881.48,No,2005,328,379.91,Yes,1,Medium,No
+16121,Sheila Glass,70,Male,Lake Anna,Savings,72911.3,455,2024-11-03,6042.89,No,2004,497,252.99,Yes,0,High,No
+21079,Don Bentley,59,Female,Lake Melissaville,Fixed Deposit,52490.83,625,2024-06-02,2151.44,Yes,2010,145,954.38,Yes,3,Medium,Yes
+17137,Brian Hancock,28,Other,New Joseph,Savings,38878.18,507,2024-02-28,9802.13,No,2002,315,536.96,No,5,Low,Yes
+82578,James Tran,50,Other,North Kathryn,Current,23033.51,326,2024-04-23,5812.06,No,2013,108,28.09,Yes,0,Low,No
+17730,Mrs. Amanda Farmer MD,74,Female,Barryburgh,Current,68433.92,821,2024-05-23,8814.74,No,2014,107,445.99,No,2,Medium,No
+31982,Sherry Berry,49,Female,South Jacquelineton,Fixed Deposit,34851.68,525,2024-10-26,7371.5,No,2021,129,256.17,Yes,1,Low,No
+48475,Juan Ross,27,Other,Port Sharonshire,Fixed Deposit,40176.26,587,2024-07-28,7290.48,No,2008,10,595.23,No,4,Low,Yes
+54788,Thomas Hughes,24,Other,Port Paulmouth,Savings,83516.23,308,2024-09-06,5917.36,No,2020,73,934.69,Yes,5,Low,Yes
+98669,Ann Keller,44,Female,Thompsonport,Current,6314.4,411,2024-01-24,6420.65,Yes,2020,193,483.48,No,4,High,No
+15044,Michelle Lynch,69,Female,Port Diane,Current,8918.17,368,2024-10-31,2412.26,No,2018,185,25.32,No,0,Medium,No
+71892,Joseph Crane,62,Male,South Daniellebury,Savings,78443.75,685,2024-06-26,6972.31,Yes,2010,222,243.76,No,3,High,No
+60550,Samuel Lucas,63,Other,Garnertown,Savings,99869.28,375,2024-01-28,6283.46,No,2004,131,898.3,Yes,5,High,No
+51857,Rick Johnson,34,Female,Emmaton,Business,18592.13,359,2024-07-10,3679.3,No,2002,120,614.12,No,2,High,Yes
+56775,Barry Miller PhD,29,Male,Dakotaside,Savings,58510.7,741,2024-06-11,9173.77,Yes,2019,142,997.06,No,4,Low,Yes
+56317,Ashley Johnson DVM,30,Male,South Jessica,Current,79350.36,502,2024-03-25,3865.17,Yes,2005,131,387.42,Yes,0,Medium,Yes
+49354,Olivia Miller,19,Male,North Stephenmouth,Business,36954.16,335,2024-07-20,8656.68,No,2021,415,695.08,No,3,High,No
+98302,Brian Richardson,68,Other,Shannonberg,Current,91366.8,574,2024-06-29,2196.1,Yes,2021,333,448.41,No,4,Low,No
+81666,Dr. Robert Thomas,66,Other,Ochoahaven,Fixed Deposit,49239.07,543,2024-01-25,8889.64,Yes,2009,302,232.16,No,3,Medium,No
+32290,Heidi Woodard,52,Other,Port James,Current,95213.84,449,2024-10-16,6650.93,Yes,2018,474,175.01,No,4,Low,No
+90758,Heidi Barnes,62,Other,Gonzaleztown,Business,80696.92,790,2024-07-14,1904.63,No,2013,344,818.14,No,2,Low,No
+82638,Denise Alvarez,38,Male,New Amber,Fixed Deposit,9299.72,728,2024-10-30,7628.95,No,2011,319,115.81,Yes,1,Low,Yes
+90433,Andrew Fisher,56,Other,Port Erichaven,Current,43410.14,474,2024-07-11,7873.99,Yes,2001,357,499.48,No,3,Low,No
+41210,Larry Mayo,65,Other,Maryburgh,Business,92895.37,693,2024-10-23,8746.37,Yes,2005,216,230.14,No,0,Medium,Yes
+50965,Mrs. Kirsten Bolton,47,Male,Joshuashire,Current,54280.77,646,2024-06-14,5295.2,Yes,2015,337,858.9,No,1,High,Yes
+94724,Mr. Andrew Rodriguez,34,Female,South Kristin,Business,29123.99,440,2024-04-22,1414.4,No,2009,25,334.21,No,4,Medium,Yes
+19407,Erik Sullivan,19,Male,Perryburgh,Savings,20213.73,497,2024-01-26,5634.74,No,2009,101,302.46,No,4,High,Yes
+30438,Summer James,71,Male,Angelabury,Business,87373.17,620,2024-04-08,7146.31,No,2006,303,283.87,No,2,Medium,No
+74232,Dawn Stevens,39,Female,South Jamesside,Savings,61255.84,737,2024-11-15,4253.71,No,2000,142,498.4,Yes,0,Medium,No
+95718,Courtney Allen,52,Other,Josephchester,Savings,93957.99,531,2024-08-14,3735.61,Yes,2003,240,343.31,Yes,1,High,No
+10272,Victoria Evans,73,Male,Larsenport,Fixed Deposit,79712.5,837,2024-07-16,5671.93,Yes,2007,395,514.45,Yes,4,Low,Yes
+95965,Robin Allison,42,Male,Lake Ashley,Savings,92665.16,656,2024-02-19,2785.11,Yes,2019,475,354.59,No,0,High,Yes
+23606,Joel Fernandez,43,Female,Wardview,Savings,40495.17,507,2024-09-02,2043.05,No,2001,437,910.4,No,0,Medium,No
+35074,Joseph Chen,55,Male,South Alyssamouth,Savings,80259.4,555,2024-03-30,6910.93,Yes,2000,42,455.33,No,5,Medium,No
+68987,Amy Johnson,75,Female,New Elizabeth,Fixed Deposit,51402.04,569,2024-05-13,4217.11,Yes,2003,486,120.68,Yes,0,Low,Yes
+94829,Laura Martin,20,Female,North Kenneth,Fixed Deposit,52183.39,536,2024-04-06,2375.91,Yes,2013,144,612.59,Yes,3,Low,Yes
+17002,Julie Guzman,30,Female,Whitneyhaven,Fixed Deposit,29148.56,775,2024-07-06,1586.75,Yes,2004,209,955.28,Yes,4,Low,Yes
+47543,Scott Lynch,67,Male,South Jacobborough,Current,86717.55,649,2024-06-12,4500.65,Yes,2007,210,395.87,No,2,Medium,Yes
+50579,William Martinez,50,Other,Jonathanfort,Savings,37072.52,750,2024-02-22,6742.35,Yes,2005,75,520.67,No,1,Medium,No
+57012,Michelle Reed,34,Male,Helenville,Savings,97287.18,581,2024-08-18,2331.1,No,2018,81,58.82,No,4,High,No
+89005,Todd Murillo,74,Female,Lake Edwardhaven,Current,56344.2,772,2024-03-09,7964.45,Yes,2011,437,99.85,No,5,Medium,Yes
+45687,Aaron Crawford,23,Other,Karenton,Fixed Deposit,98103.2,414,2024-04-06,5303.97,Yes,2020,326,284.79,No,5,Medium,No
+40301,Frederick Davis,21,Female,Guerrerobury,Business,71609.87,544,2024-05-08,1594.45,Yes,2017,445,124.41,No,5,High,No
+18650,Rachel Murphy,70,Female,Brooksmouth,Current,40678.41,628,2024-01-27,8446.96,Yes,2006,367,791.5,Yes,2,High,Yes
+68462,Angel Murray,28,Female,Georgeside,Fixed Deposit,70571.61,799,2024-10-01,3275.32,No,2015,204,200.62,No,1,Low,No
+32569,Stacy Wilson,68,Female,West Stevenshire,Business,29341.79,665,2024-01-05,5215.7,Yes,2015,286,154.46,Yes,5,Low,Yes
+74071,Gregory Owens,20,Other,Hayesside,Current,3897.5,539,2024-03-16,6266.73,No,2011,177,817.21,No,0,High,Yes
+47827,James Tate,41,Other,Brandyberg,Current,15880.3,641,2024-03-19,6620.24,No,2017,297,591.43,No,2,High,No
+12403,Brittany Williams,68,Female,Port Ashley,Business,69149.76,594,2024-09-09,8845.57,Yes,2002,489,993.12,Yes,4,Low,No
+71636,Angela Diaz,21,Female,Port Brandon,Savings,45228.57,699,2024-08-28,9711.22,No,2019,237,444.04,Yes,0,Low,No
+39938,Andrea King,18,Other,West Taylorhaven,Fixed Deposit,89192.27,419,2024-09-07,5815.19,Yes,2018,228,323.06,Yes,1,Medium,No
+20592,Tony Jordan,25,Female,Michelleview,Savings,32287.7,614,2024-01-23,5605.0,No,2010,51,274.89,No,3,Low,No
+11707,Kristen Joseph,19,Other,Lake Wayneview,Savings,61349.71,829,2024-06-11,4977.39,No,2009,156,721.68,No,5,Medium,No
+49956,Raymond Baldwin,49,Female,New Rachel,Business,11956.4,598,2024-10-24,6074.04,No,2014,444,379.74,No,1,Medium,Yes
+91618,Jacob Miller,62,Female,Alexandriastad,Current,15149.92,497,2024-06-10,4368.41,Yes,2018,330,653.29,No,2,Low,No
+74111,Bryan Carter,35,Other,Torresland,Business,74539.19,709,2024-10-31,4336.86,Yes,2023,19,138.94,No,0,High,Yes
+28838,Randy Cox,22,Male,Ashleybury,Current,50193.94,381,2024-10-17,7720.38,No,2009,246,229.04,No,1,High,No
+24362,Keith Pace,38,Other,Williamsside,Savings,62747.82,362,2024-08-15,1495.34,Yes,2023,322,526.4,Yes,5,Low,Yes
+91784,Gail Kelly,48,Male,Deanville,Fixed Deposit,71919.31,345,2024-09-21,4140.57,No,2003,473,463.35,Yes,4,Low,No
+72170,Preston Berry,27,Other,Wagnermouth,Fixed Deposit,49507.27,313,2024-04-24,7228.14,No,2022,99,577.4,Yes,1,Medium,Yes
+68229,Brian Russell,61,Female,Annabury,Savings,12032.71,342,2024-09-26,8763.52,Yes,2003,126,850.91,No,5,Low,Yes
+68597,Antonio Kelly,54,Other,Port Barbaraville,Business,65333.7,318,2024-07-15,1436.96,No,2008,352,614.35,Yes,3,Medium,Yes
+88789,Michelle Dennis MD,40,Other,Patriciaville,Savings,55541.98,502,2024-10-23,3997.12,No,2009,183,901.5,Yes,0,Medium,No
+25773,Jeffrey Mccormick,40,Male,Cartermouth,Current,68500.13,426,2024-10-13,5797.16,No,2006,101,934.84,Yes,4,Medium,Yes
+61341,Tiffany Le,63,Other,Joshualand,Current,84735.79,529,2024-02-13,6693.74,No,2002,482,429.6,No,1,Low,Yes
+68292,Lindsey Sloan,33,Male,West Stanleyburgh,Current,95061.0,449,2024-11-21,7426.58,Yes,2022,374,201.52,No,5,High,Yes
+37988,Brandy Riley,45,Other,Richardstad,Savings,99694.62,556,2024-07-25,9797.84,No,2015,412,68.08,No,3,High,Yes
+55051,Joseph Lucas,51,Other,Gabriellaborough,Business,88280.69,473,2024-03-15,6226.85,Yes,2013,475,738.29,Yes,1,High,No
+58987,Maurice Morales,40,Female,South Samantha,Fixed Deposit,12626.57,688,2024-08-04,1021.82,Yes,2010,11,60.55,Yes,3,Low,Yes
+82175,Andrew Crawford,58,Male,Lanefurt,Savings,42828.84,329,2024-07-23,2476.64,No,2004,343,517.48,Yes,2,High,Yes
+46782,Bernard Watson,47,Other,South Justin,Fixed Deposit,88363.29,733,2024-08-31,6168.19,Yes,2016,256,781.74,Yes,4,Low,Yes
+33975,Robert Bates,35,Female,South Paulfurt,Business,78950.99,317,2024-03-17,1341.57,No,2021,448,735.93,No,5,Medium,No
+13922,Joseph Smith,72,Male,East Wayneburgh,Current,11595.45,361,2024-03-24,2319.56,Yes,2002,385,188.09,No,1,High,No
+96976,James Foley,21,Female,Garciaberg,Business,40258.66,833,2024-05-14,5710.26,Yes,2001,424,698.54,Yes,0,High,Yes
+93642,Alicia Taylor,57,Female,South Christianton,Business,65978.93,511,2024-06-30,4974.25,Yes,2006,195,157.96,No,3,Low,Yes
+38918,Joanne Zuniga,56,Other,Cruzview,Fixed Deposit,26204.54,531,2024-01-31,2290.09,No,2008,8,950.35,No,4,Low,No
+65407,Michael Owens III,73,Female,Port Sarah,Fixed Deposit,42711.77,416,2024-07-15,3272.92,Yes,2018,407,866.67,Yes,2,High,Yes
+61835,Anna Tate,69,Other,West Reneeburgh,Fixed Deposit,52378.85,314,2024-10-19,8068.39,No,2010,12,903.01,Yes,1,Low,No
+76645,Todd Green,35,Other,Sheabury,Business,56316.96,507,2024-04-14,7721.21,No,2022,379,703.97,No,3,Low,No
+87827,Derek Davis,64,Other,South Sarahport,Savings,89046.36,374,2024-09-28,7451.68,No,2006,80,477.62,No,0,Medium,No
+32294,Jonathan Fuentes,47,Female,East Nathanielshire,Current,71743.54,605,2024-02-29,5654.53,No,2012,464,720.71,No,5,Low,No
+53544,David Castro,35,Male,West Michael,Current,69443.35,799,2024-03-19,1228.39,Yes,2023,206,751.81,Yes,0,High,Yes
+70394,Joshua Howard,52,Female,Chelseamouth,Current,57236.78,541,2024-07-31,1600.34,No,2018,362,163.17,No,2,High,Yes
+94749,Christopher Wright,25,Female,Williamshaven,Current,6123.53,453,2024-09-26,6903.42,No,2010,321,297.76,Yes,0,Low,Yes
+77282,Dwayne Burton,23,Female,Hooperchester,Current,88426.8,786,2024-05-31,7385.14,Yes,2001,269,133.52,Yes,1,High,Yes
+90089,Allen Lee,19,Male,Fisherchester,Current,19100.15,790,2024-04-26,1686.38,Yes,2004,139,112.58,Yes,5,High,Yes
+87073,Brandon Harris,63,Female,West Laura,Current,40137.15,389,2024-08-29,3418.91,Yes,2013,420,185.95,Yes,4,Medium,Yes
+12254,Patricia Peck,68,Female,Joshuaville,Current,58861.85,799,2024-02-12,4035.81,Yes,2010,193,733.29,Yes,4,High,No
+34431,Amanda Stewart,33,Male,Rodgersside,Current,55963.52,458,2024-03-25,4970.29,No,2019,442,470.27,Yes,5,Low,No
+29739,Eric Price,53,Male,Jonathanhaven,Savings,91579.43,692,2024-04-10,6995.31,Yes,2012,5,667.77,Yes,5,High,Yes
+16526,Dustin Sanchez,58,Other,Garyborough,Savings,61437.6,398,2024-10-23,3898.69,No,2013,234,232.04,Yes,4,Medium,No
+62130,Alexandra Bates,69,Male,South Jonathan,Business,76763.05,508,2024-02-08,2252.33,No,2009,123,215.92,No,4,Medium,No
+61431,Lisa Griffin,62,Female,North William,Current,5275.98,622,2024-03-26,7746.1,Yes,2007,339,893.05,No,4,Medium,Yes
+28573,Danielle Little,75,Male,West Christopher,Fixed Deposit,75316.7,533,2024-05-01,6215.09,Yes,2018,147,598.38,Yes,3,Medium,Yes
+62039,Thomas Price,24,Other,South Richard,Current,84920.42,611,2024-11-08,8941.41,No,2011,319,356.43,No,2,Low,Yes
+99690,Denise Smith,34,Male,East Justinmouth,Current,70118.44,435,2024-06-26,9703.69,Yes,2022,288,980.35,Yes,4,High,Yes
+51574,Jack Humphrey,65,Male,West Amy,Current,63931.15,726,2024-03-31,8304.76,Yes,2012,44,522.63,No,4,High,No
+10923,Vicki Carter,28,Other,Port Kayla,Savings,5695.09,623,2024-11-14,7984.55,No,2006,250,310.77,No,1,High,Yes
+83840,Jessica Russell,40,Other,Port Travis,Current,85898.12,431,2024-02-26,8915.69,Yes,2019,426,448.16,No,4,Medium,Yes
+98377,Daniel Cox,29,Other,Millerburgh,Business,70866.39,703,2024-09-02,4986.71,Yes,2000,359,346.6,No,3,Medium,No
+38134,Bobby Johnson,61,Female,Gardnerville,Current,70765.74,723,2024-03-26,7575.79,Yes,2012,471,114.8,No,1,Low,No
+87795,John Simpson,71,Female,Matthewport,Business,72997.4,712,2024-09-04,8420.13,No,2020,159,241.16,Yes,2,Low,Yes
+71589,Richard Jimenez,45,Female,Lake Jenniferfort,Business,70008.31,406,2024-11-17,6905.93,Yes,2006,357,149.85,No,1,Medium,No
+31916,Debra Roach,44,Male,Gutierrezchester,Fixed Deposit,88443.58,575,2024-01-27,8449.97,No,2000,254,964.22,Yes,4,High,Yes
+79547,Jordan Clay,59,Male,Youngchester,Savings,99307.13,675,2024-05-23,7273.78,Yes,2013,346,839.62,No,4,Medium,No
+73124,Heidi White,50,Male,Lake Anthonyside,Savings,24722.08,445,2024-08-07,8906.26,Yes,2012,197,329.67,No,2,High,No
+96615,James Reid,31,Male,North Ericaburgh,Business,64876.71,351,2024-05-08,8487.67,No,2004,98,254.79,Yes,5,Medium,Yes
+99092,Andrew Taylor,52,Male,Lake Vicki,Current,17205.73,370,2024-09-14,7360.1,No,2014,22,969.68,Yes,0,Low,Yes
+17523,Tammy Jones,35,Female,Lake George,Current,2164.72,620,2024-05-01,4133.98,No,2020,196,738.72,Yes,1,Medium,Yes
+46747,Charles Brown,75,Female,Dianeberg,Business,24199.36,684,2024-02-29,5386.03,No,2009,97,948.42,No,5,Low,No
+14357,Gwendolyn Espinoza,72,Other,West Timview,Business,60681.15,593,2024-01-25,8805.72,Yes,2014,86,720.98,Yes,1,Low,Yes
+22408,Deborah Greene,69,Other,West Robert,Business,58072.86,456,2024-01-03,4306.71,Yes,2008,59,329.22,Yes,4,Medium,Yes
+27612,Joshua Bishop,63,Male,Nathanielmouth,Current,72188.24,768,2024-03-07,7446.26,No,2001,285,750.91,Yes,4,Low,Yes
+57933,Angel Mason,18,Female,West Tanya,Fixed Deposit,78050.25,684,2024-08-27,4606.07,No,2018,52,207.41,Yes,0,Medium,No
+87991,Miss Lindsay Scott,52,Male,East Susan,Business,67978.22,737,2024-08-17,5542.28,No,2017,87,695.31,No,2,Medium,Yes
+70486,Harry Lopez,25,Female,Millerside,Business,95559.72,351,2024-08-29,9759.21,Yes,2022,284,597.18,No,2,Medium,Yes
+59814,Megan Rogers,18,Male,Parkerton,Current,21447.76,543,2024-08-27,2124.15,No,2015,436,194.34,No,3,Low,Yes
+86425,Tammie Phillips,35,Female,Jenniferville,Savings,55013.39,379,2024-06-09,3421.41,Yes,2002,95,955.87,No,4,High,No
+21345,Cesar Martinez,19,Other,South Thomasview,Current,41117.93,300,2024-05-11,5425.91,Yes,2007,138,823.88,Yes,0,Medium,No
+51496,Carl York,36,Male,Kingshire,Business,62004.71,635,2024-11-13,3661.98,Yes,2017,45,31.36,No,5,Medium,Yes
+64536,Paul Richmond,72,Female,Hancockland,Business,27712.02,477,2024-02-22,2955.94,Yes,2005,106,858.2,Yes,4,High,Yes
+47371,Mrs. Lindsay Williams,19,Female,New Matthew,Fixed Deposit,11879.3,301,2024-11-18,8836.23,No,2018,70,49.09,No,5,Low,No
+44973,Ronald Dunn,73,Other,New Cynthiamouth,Fixed Deposit,21823.53,797,2024-07-19,5094.94,No,2022,261,38.41,Yes,1,Low,No
+51063,Ryan Roberts,57,Female,Kaitlinview,Current,52373.58,772,2024-06-02,1814.02,No,2018,89,432.24,Yes,3,Low,No
+46936,Erik Baldwin,33,Male,Meganchester,Business,53549.74,747,2024-03-18,1726.93,Yes,2018,185,335.37,No,5,Medium,Yes
+64570,Lynn Erickson,75,Male,Georgebury,Business,54207.08,793,2024-06-18,4329.45,No,2007,39,95.65,No,4,High,Yes
+59456,Christopher Burgess,28,Other,Rebeccaborough,Business,34145.68,607,2024-11-21,3169.23,No,2004,228,528.15,No,3,Medium,No
+40012,Kathleen Johnson,72,Male,Matthewbury,Business,37053.27,336,2024-07-07,7124.09,Yes,2012,309,706.64,Yes,3,Low,No
+85577,Darrell Orr,43,Male,North Shawn,Current,19438.13,354,2024-01-29,7331.1,Yes,2018,30,149.66,Yes,5,Medium,Yes
+98179,Eddie Guzman,37,Male,East Amytown,Fixed Deposit,52776.69,781,2024-06-11,9438.37,No,2022,254,319.96,No,3,Low,No
+76941,Anna Mckee,74,Other,Howardhaven,Fixed Deposit,8341.45,832,2024-06-06,2626.74,No,2002,479,469.83,No,2,High,No
+39313,Cynthia Woodard,34,Female,Hendersonside,Savings,40827.78,575,2024-07-02,8662.09,No,2023,375,928.56,No,5,High,No
+73932,Chase Leonard,21,Other,Thomasshire,Current,29100.56,840,2024-03-30,8978.98,No,2015,299,73.1,No,3,Low,No
+78933,Edgar Patterson,54,Male,New Alejandra,Business,96944.98,785,2024-07-11,2984.83,No,2013,5,404.9,Yes,5,Medium,No
+94798,Shelby Hill,23,Female,West Elizabeth,Fixed Deposit,29304.58,592,2024-08-11,3812.66,No,2009,29,822.29,No,4,Medium,Yes
+28777,Briana Ray,25,Male,Reneehaven,Business,39137.5,406,2024-09-12,1636.94,No,2016,89,925.9,No,1,Low,No
+14123,Adriana Rivera,55,Male,Davidsonchester,Fixed Deposit,49506.77,400,2024-11-12,3629.4,Yes,2008,76,365.52,Yes,1,Low,No
+60150,Christopher Bentley,24,Other,Garrettmouth,Fixed Deposit,49618.59,490,2024-01-31,1092.36,No,2008,455,468.39,No,1,High,No
+61733,Robin Ortega,44,Male,Mcculloughmouth,Current,46828.58,715,2024-05-28,7763.86,No,2006,249,396.0,Yes,3,High,No
+96106,Ryan Gordon PhD,27,Male,Norrishaven,Fixed Deposit,16503.23,477,2024-04-29,4089.32,No,2022,173,505.09,Yes,1,High,Yes
+95985,Sue Wilson,30,Female,Davidport,Business,69645.11,636,2024-03-18,1025.82,Yes,2015,9,65.8,No,4,High,Yes
+43619,George Shaw,22,Other,Kathyland,Business,4469.9,417,2024-04-07,5455.9,Yes,2010,280,782.73,Yes,0,High,No
+57661,Tony James,60,Other,North Davidport,Savings,85555.14,503,2024-09-07,3413.37,No,2016,345,525.58,No,4,High,No
+17095,Lisa Miles,64,Male,Melissamouth,Fixed Deposit,92838.61,434,2024-04-23,9064.69,Yes,2018,113,365.39,No,1,High,Yes
+18130,Tiffany Wood,29,Male,East Teresa,Business,67466.88,694,2024-01-20,5222.13,No,2005,27,598.6,No,4,Low,Yes
+32812,Jeanette Burns,42,Male,Martinport,Current,94763.63,566,2024-01-01,4853.36,Yes,2004,46,61.51,Yes,1,Medium,Yes
+25425,Lindsey Black,39,Other,Yodermouth,Current,23876.16,347,2024-01-04,9868.42,Yes,2001,266,398.65,Yes,4,Low,Yes
+29503,Cameron Jones,55,Other,Amandaburgh,Fixed Deposit,33845.31,648,2024-04-06,1430.59,No,2010,22,144.42,Yes,4,Medium,Yes
+80762,Sandra Thompson,27,Female,East Shawn,Current,16475.36,782,2024-02-26,9100.64,Yes,2000,148,675.13,No,1,High,Yes
+94722,Rebecca Alvarado,24,Female,Fosterton,Current,75279.28,634,2024-08-02,7211.08,Yes,2018,272,561.28,No,0,Medium,No
+99180,Alexander Patterson,67,Male,West Edward,Savings,62588.23,555,2024-02-13,3510.21,Yes,2003,447,417.21,No,1,High,Yes
+17982,Jim Reyes,32,Other,North Jessica,Current,14015.84,357,2024-06-02,3648.08,No,2008,108,148.79,No,0,Medium,No
+99582,Tamara Rosales,64,Female,Tiffanyfort,Fixed Deposit,54615.68,803,2024-03-22,4700.15,No,2009,261,718.45,No,2,Medium,Yes
+17803,Jason Cunningham,18,Female,Port Adamland,Fixed Deposit,25500.87,397,2024-10-16,1886.66,Yes,2000,169,969.89,Yes,0,High,Yes
+38948,Steven Deleon,58,Other,Atkinsonmouth,Fixed Deposit,87521.82,384,2024-05-01,4988.71,Yes,2008,43,740.96,No,4,Medium,No
+64693,Pamela Walters,67,Other,West Haleyside,Current,11892.89,648,2024-10-01,9099.78,Yes,2015,333,599.54,No,4,Low,Yes
+43643,Terry Liu,58,Male,East Courtneyshire,Savings,93903.22,785,2024-04-05,9903.91,Yes,2005,270,540.53,Yes,4,Medium,No
+77150,Brian Sanchez,57,Other,Saraburgh,Current,1077.34,524,2024-11-07,3674.74,No,2017,288,673.6,No,2,Medium,No
+73419,Tracey Miller,67,Other,Port Leslieberg,Business,18156.55,523,2024-09-20,5919.01,No,2020,422,548.42,Yes,2,High,Yes
+58716,Amanda Bishop,68,Female,Davidmouth,Fixed Deposit,62073.06,806,2024-08-10,3791.76,No,2020,35,716.44,Yes,0,Medium,No
+83930,Richard Harvey,49,Male,South Tammy,Current,23259.63,327,2024-05-31,5060.01,No,2015,423,425.19,No,4,Medium,No
+86698,Johnny Lowe,31,Male,Nicholasborough,Fixed Deposit,10218.71,549,2024-01-25,6337.33,No,2006,206,509.89,Yes,1,Medium,No
+73627,Larry Drake PhD,33,Female,Lindseytown,Savings,72873.05,504,2024-06-08,7451.2,No,2006,354,810.03,Yes,1,Medium,No
+54616,Keith Oneal,61,Other,South Stephanieborough,Fixed Deposit,33801.29,635,2024-01-02,1872.83,Yes,2022,150,528.38,No,5,Medium,Yes
+78377,Michael Green,44,Male,Jessechester,Savings,793.65,638,2024-07-19,7109.3,Yes,2013,170,500.54,Yes,1,High,No
+40846,Amanda Taylor,33,Female,Smithshire,Business,67045.44,492,2024-08-21,9543.04,Yes,2022,217,485.41,No,2,Medium,Yes
+33367,Jessica Smith,68,Other,Lopezton,Savings,65478.37,532,2024-04-21,3998.53,No,2012,241,142.75,Yes,5,Medium,No
+80187,Jeff Preston,36,Female,Lake Angelicaton,Business,26403.13,542,2024-05-26,9284.56,Yes,2010,168,522.54,No,4,Medium,Yes
+57845,Adrian Alvarez,57,Male,Laurastad,Current,14932.71,521,2024-10-25,3860.65,Yes,2019,279,804.57,Yes,1,Low,Yes
+40143,Jacqueline Phillips,19,Female,East Alexis,Savings,38763.7,305,2024-04-17,3306.78,No,2009,54,218.0,Yes,5,Low,Yes
+63032,Christopher Ray,28,Female,New Kayla,Business,60701.32,370,2024-11-12,6596.27,No,2013,248,394.15,Yes,0,Low,Yes
+90492,Samantha White,69,Other,Johntown,Current,16780.06,306,2024-10-05,8896.76,No,2007,106,995.09,Yes,3,Medium,Yes
+56570,Joseph Walker,45,Other,Mitchellville,Business,15994.1,469,2024-10-21,8743.68,Yes,2023,61,961.21,Yes,0,High,No
+97188,Kevin Gates,35,Female,Carterland,Business,55678.34,441,2024-10-27,6525.04,Yes,2012,6,410.24,Yes,1,Low,Yes
+35682,Roberta Jones,48,Male,West Tracyton,Business,49356.36,402,2024-10-01,7306.84,Yes,2021,358,156.89,Yes,5,Low,No
+22723,Autumn Jones,53,Female,Joshuaport,Savings,37257.2,512,2024-09-11,7383.93,No,2021,168,325.25,Yes,2,High,No
+44170,Brian Hall,31,Female,South Ricardotown,Savings,80699.56,408,2024-04-21,5939.35,No,2021,28,596.57,Yes,0,High,No
+11261,Manuel Lee,25,Other,Johnsontown,Business,27625.0,386,2024-06-17,9345.23,No,2005,117,532.63,No,2,High,Yes
+18185,Curtis Rosario,43,Other,Port Brandiview,Business,4689.06,684,2024-02-27,1236.31,No,2008,60,467.84,Yes,0,Low,Yes
+11321,Nathan Watkins,44,Male,Martinchester,Fixed Deposit,28552.29,512,2024-01-15,7807.52,No,2020,193,373.67,No,0,Low,Yes
+61624,Mariah Williams,71,Female,South Elizabeth,Current,23203.62,792,2024-09-07,5872.7,No,2004,308,99.67,Yes,5,Medium,No
+46018,Lauren Hart,37,Female,Spencerville,Business,18781.53,706,2024-04-04,3960.46,Yes,2018,401,50.46,Yes,3,High,Yes
+50830,Linda Nguyen,65,Other,Lake Jesse,Savings,31358.92,844,2024-05-13,4253.96,No,2001,364,629.37,No,3,High,No
+78412,Heather Benson,49,Male,Pamelahaven,Fixed Deposit,88115.81,497,2024-06-22,2128.1,Yes,2000,345,826.7,No,2,Medium,Yes
+14315,Jeanette Arellano,27,Other,South Denise,Current,48209.58,748,2024-11-08,8179.55,Yes,2014,378,484.69,Yes,2,Low,Yes
+42424,Alexander Knight,46,Female,West Kellybury,Business,95140.33,768,2024-05-03,6828.51,No,2006,494,349.79,No,2,High,No
+60744,Julie Bowen,25,Male,Ashleybury,Fixed Deposit,82069.62,657,2024-04-09,6564.68,No,2010,429,483.34,Yes,2,Low,Yes
+83880,Tara Alvarez,66,Other,Bakershire,Savings,42363.07,582,2024-05-02,5853.15,Yes,2004,276,193.49,Yes,1,Medium,Yes
+46161,Rachel Williams MD,45,Male,West Allison,Fixed Deposit,57921.95,614,2024-02-19,3324.1,Yes,2013,123,832.72,No,3,High,No
+71547,Walter Terrell,18,Male,Gutierrezberg,Fixed Deposit,91226.85,410,2024-10-27,9404.68,Yes,2000,201,199.13,Yes,1,Medium,Yes
+96000,Barbara Chase,23,Male,Mcmillanside,Fixed Deposit,77948.81,434,2024-07-29,1904.49,Yes,2011,224,531.95,No,3,Low,Yes
+48107,Mary Jimenez,34,Other,South Charlesshire,Savings,34989.05,350,2024-01-19,4330.17,No,2006,117,360.28,Yes,0,Medium,Yes
+60374,Stephen Moore,56,Other,Stevenview,Fixed Deposit,24282.74,545,2024-11-19,5461.43,Yes,2015,154,47.77,Yes,4,Medium,No
+42749,Susan Reynolds,23,Female,Rochafort,Fixed Deposit,20329.52,451,2024-02-10,2325.4,No,2021,300,407.35,Yes,3,High,Yes
+14556,David Brown,35,Female,North Judyside,Fixed Deposit,74182.47,637,2024-01-08,3997.56,Yes,2022,360,21.98,Yes,0,High,Yes
+14331,Margaret Walker,19,Female,West Derrick,Fixed Deposit,62324.81,371,2024-04-20,7907.88,No,2018,400,255.12,Yes,3,Low,No
+48122,Jennifer Delgado,44,Male,Aprilburgh,Current,66171.84,565,2024-09-08,4385.19,No,2014,81,532.84,No,0,High,No
+20085,Marilyn Jackson,31,Other,Jonestown,Current,87861.51,593,2024-05-25,7471.9,Yes,2008,64,375.64,No,0,High,No
+18311,Tracy Tyler,46,Female,Vincentburgh,Savings,18077.47,775,2024-07-28,6626.53,Yes,2011,244,484.08,No,1,Medium,Yes
+89055,Brian Smith,44,Other,Gonzalezton,Savings,85798.08,685,2024-08-04,8280.43,No,2007,147,79.06,No,0,Medium,No
+60470,Mary Herring,44,Other,Amberton,Business,94669.43,408,2024-06-13,1376.04,Yes,2018,101,48.04,Yes,5,Medium,No
+48259,Samantha Hall,59,Other,Patriciamouth,Current,41698.09,482,2024-05-13,1490.48,Yes,2007,215,334.53,No,3,Medium,No
+24928,Elizabeth Taylor,32,Female,Calderonstad,Fixed Deposit,92937.33,380,2024-10-25,3284.18,Yes,2013,41,787.47,Yes,0,High,No
+22633,Nathaniel Kelley,44,Female,Jimmyberg,Savings,99038.53,763,2024-03-23,9881.41,Yes,2018,209,534.55,No,0,Medium,Yes
+47049,Robin Watkins,74,Male,Steinview,Fixed Deposit,22015.92,665,2024-10-22,1862.59,Yes,2021,439,194.29,Yes,0,Medium,Yes
+22976,Sheri Anderson,40,Female,North Steven,Business,90962.82,615,2024-05-30,6775.97,Yes,2009,419,768.63,No,5,Low,No
+64356,Darrell Weeks,25,Female,Williamschester,Current,85270.83,567,2024-04-30,9867.22,Yes,2011,468,106.59,No,3,Medium,Yes
+94289,Jason Harper,35,Male,West Tanya,Current,98018.84,374,2024-08-29,2163.46,No,2022,492,581.45,Yes,5,Medium,No
+36384,Angela Byrd,73,Other,South Ashley,Fixed Deposit,6343.09,756,2024-11-23,9032.68,Yes,2018,125,823.13,Yes,3,High,Yes
+31627,Ashley Lee,31,Female,Markton,Business,60647.3,831,2024-11-03,6932.9,Yes,2017,310,581.37,Yes,1,Medium,No
+28477,Theresa Marquez,59,Male,Lewismouth,Savings,2350.05,423,2024-03-25,8047.97,Yes,2015,1,119.43,Yes,4,High,No
+61813,Nicole Long,46,Male,South Joseph,Current,99549.12,613,2024-07-16,6919.77,No,2022,331,547.45,No,4,High,No
+72663,Deanna Barajas,21,Male,Lake Christopherberg,Business,88087.95,551,2024-04-17,7084.74,No,2018,338,208.15,No,1,High,Yes
+95577,Daniel Hayes,18,Female,Stoutville,Current,91591.41,352,2024-08-21,8365.37,No,2003,143,795.87,Yes,3,Low,Yes
+25430,Shirley Waters,74,Male,Port Christophershire,Current,16861.32,442,2024-01-01,2913.63,Yes,2006,361,980.13,Yes,3,Low,No
+48854,David Anderson,30,Female,South Robert,Fixed Deposit,25998.79,599,2024-01-28,1212.84,No,2000,119,856.76,No,0,Medium,Yes
+15738,Austin Martinez,68,Male,New Michaelburgh,Current,82306.68,718,2024-04-27,9861.95,Yes,2006,106,518.31,Yes,4,Low,Yes
+96579,Melissa Rich,54,Male,Martinezfort,Savings,48456.61,375,2024-04-25,1790.29,No,2007,198,607.72,No,0,High,Yes
+21286,Jacob Smith,23,Female,Dwaynemouth,Savings,92171.58,481,2024-04-25,1065.21,Yes,2000,177,300.1,No,2,Medium,Yes
+75846,Raymond Perry,22,Other,Lawrencemouth,Savings,2041.6,681,2024-06-13,8856.86,Yes,2022,423,903.41,Yes,4,Medium,No
+81734,Dawn Maxwell,70,Other,Kylemouth,Business,81169.08,537,2024-08-03,5386.49,Yes,2020,312,173.61,No,3,Low,Yes
+47461,Rebecca Adams,62,Other,South Kevin,Fixed Deposit,70222.17,667,2024-08-25,1687.93,Yes,2020,422,694.25,No,3,Low,No
+50935,William Garcia,57,Other,West Ryantown,Business,19430.53,468,2024-03-03,2504.34,Yes,2012,101,664.96,Yes,4,High,Yes
+39330,Matthew Gibson,71,Female,South Andreton,Savings,64294.17,748,2024-11-18,6329.9,Yes,2013,439,991.27,Yes,5,Medium,No
+79674,Katherine Morris,59,Other,Port Rodneyborough,Current,48700.06,361,2024-08-25,5631.07,No,2013,18,239.91,Yes,4,Medium,Yes
+57059,Richard Kerr,58,Female,Port Jeffrey,Business,77861.91,558,2024-06-02,3480.15,Yes,2009,484,388.91,Yes,2,Low,Yes
+32058,Joseph Beasley,61,Male,West Robert,Business,67682.75,832,2024-03-03,1822.55,No,2021,105,863.44,Yes,1,Low,No
+50879,Jamie Williams,53,Other,North Michele,Savings,11764.95,644,2024-06-06,7636.87,Yes,2001,445,282.5,Yes,0,Low,No
+11574,Jonathan Franco,25,Male,New Alyssaton,Current,67223.92,490,2024-03-10,6331.52,Yes,2001,461,954.24,Yes,4,Low,No
+35259,Russell Wu,75,Male,Port Sandra,Business,86191.98,638,2024-11-05,2132.1,Yes,2005,156,182.99,Yes,4,Low,No
+13658,Ashley Hernandez,72,Female,South Erika,Business,29345.42,845,2024-11-09,3489.51,No,2014,49,550.54,Yes,0,High,Yes
+93979,Brian Hunter,35,Female,Barnettmouth,Current,36882.0,494,2024-04-03,9297.14,No,2018,390,482.56,No,4,Low,Yes
+56988,Pamela Rivas,31,Male,Wilsonstad,Business,68337.1,643,2024-10-17,7574.82,Yes,2003,142,639.47,No,4,High,No
+90591,Michael Adams,42,Other,West Pamela,Business,25428.04,442,2024-10-12,7948.36,No,2014,271,734.81,Yes,2,Low,No
+39861,Ricky Donaldson,19,Other,West Vincentchester,Current,13385.01,789,2024-11-03,3906.03,No,2000,109,203.36,Yes,3,Low,No
+88186,Erik Martin,44,Other,Nicholasview,Business,15759.15,686,2024-03-17,7825.01,Yes,2016,444,567.28,Yes,2,Low,No
+31541,Mackenzie Gomez,56,Other,East Robin,Business,45422.58,400,2024-09-28,4802.8,Yes,2022,199,805.46,Yes,5,Medium,Yes
+81394,Ernest Lambert,40,Female,Lake Melissa,Fixed Deposit,45051.0,683,2024-06-05,3622.81,No,2009,439,199.11,No,4,Medium,Yes
+29868,Sylvia Stephens,59,Other,Port Willieport,Business,96937.06,592,2024-04-08,5458.23,No,2018,265,30.2,No,5,High,Yes
+94115,Daniel Miller,66,Other,West Leah,Savings,87081.58,390,2024-10-09,2229.33,Yes,2005,201,232.81,Yes,0,Low,No
+68168,Benjamin Wallace,57,Other,Morganview,Fixed Deposit,26523.79,656,2024-02-05,4873.3,No,2019,146,862.76,No,1,Low,No
+70534,Laura Henson,46,Other,New Shannon,Current,88245.38,535,2024-08-12,7038.51,No,2014,30,893.21,Yes,2,Medium,Yes
+37347,Bianca Byrd,61,Male,West Waynefurt,Savings,57413.54,408,2024-08-25,7194.4,Yes,2011,164,936.5,Yes,5,Low,No
+55612,Dwayne Kim,24,Female,Brianmouth,Savings,13060.36,623,2024-05-07,7888.12,No,2011,438,788.84,No,1,Low,Yes
+91418,Destiny Oliver,21,Female,West Jennifermouth,Savings,31849.68,460,2024-03-21,3338.66,No,2009,125,50.97,No,4,High,No
+45237,Ashley Sweeney,61,Other,Davidsonmouth,Current,74983.12,676,2024-06-21,8520.69,Yes,2010,256,873.75,Yes,4,Medium,No
+28078,Allison Barnes,60,Female,Chadview,Fixed Deposit,50745.85,350,2024-04-28,6466.92,Yes,2018,467,930.31,Yes,1,High,Yes
+50813,John Mcintyre,48,Other,Port Autumn,Fixed Deposit,69151.06,738,2024-09-09,2465.47,Yes,2001,93,736.23,Yes,0,Low,Yes
+49113,Tanya Martinez,73,Male,Warrenville,Fixed Deposit,18134.84,634,2024-03-17,8119.64,No,2006,275,204.03,No,3,Medium,No
+26230,Kevin Beard,46,Female,Port Justinland,Fixed Deposit,42832.17,548,2024-09-10,4358.45,Yes,2013,60,612.01,Yes,0,High,Yes
+84391,David Ruiz,68,Male,South Kelsey,Fixed Deposit,59288.94,769,2024-02-07,3375.85,Yes,2017,66,343.07,Yes,0,Low,Yes
+21397,Sonya Buchanan,74,Female,Hillbury,Business,94912.02,365,2024-10-20,6010.21,Yes,2009,323,608.86,Yes,4,Low,Yes
+45146,Jermaine Nash,53,Female,Whitakerstad,Savings,24486.59,521,2024-07-05,8032.99,No,2015,292,377.98,Yes,5,Medium,No
+64948,Shannon Hamilton,22,Other,Port Austinfurt,Business,87107.67,614,2024-05-05,8043.6,No,2004,314,481.84,Yes,3,High,Yes
+73979,Paul Perez,29,Male,Deanburgh,Current,12575.2,513,2024-04-22,2914.64,Yes,2017,290,608.79,Yes,5,High,No
+23073,Carol Franklin,69,Female,Port Johnfort,Current,68000.2,677,2024-03-10,8971.34,Yes,2001,434,981.98,Yes,3,Medium,Yes
+89192,Donald Jennings,40,Female,Mcgeefurt,Business,86141.68,331,2024-06-03,2888.41,No,2013,100,755.05,No,1,Low,Yes
+85042,Laura Hudson,74,Male,North Marissaton,Savings,86168.87,501,2024-08-21,1461.54,Yes,2004,247,191.53,No,5,Medium,Yes
+50957,Bruce Mahoney,21,Other,North Ruth,Business,79740.63,542,2024-08-16,8954.98,Yes,2006,8,600.38,Yes,4,Low,Yes
+17245,John Mills,38,Female,New Gregory,Current,91563.8,376,2024-05-15,9793.32,No,2000,148,706.45,Yes,1,Medium,Yes
+75306,Marcia Jones,67,Male,Chapmanview,Current,48729.61,531,2024-07-09,7876.42,Yes,2011,65,402.71,Yes,5,Medium,No
+73219,Regina Peterson,56,Male,Belindahaven,Fixed Deposit,17406.85,786,2024-03-07,6443.87,Yes,2001,309,504.23,Yes,3,Low,Yes
+94016,Rachel Richardson,34,Other,Port John,Fixed Deposit,52395.07,580,2024-05-12,1116.36,No,2013,425,42.34,No,2,Medium,Yes
+47347,Jessica Henry,19,Female,Amyville,Business,48270.32,548,2024-04-25,2734.55,No,2005,415,92.62,No,1,High,Yes
+88073,Tony White,46,Other,Levibury,Current,38714.41,615,2024-06-28,7281.89,No,2012,164,409.43,Yes,2,Low,No
+26106,Robert Clark,58,Male,Johnsontown,Fixed Deposit,14348.15,408,2024-09-22,8852.19,No,2002,175,820.71,No,5,Medium,Yes
+25368,Gregory Reyes,45,Other,Stephaniemouth,Business,50039.4,817,2024-05-06,1183.35,Yes,2003,7,983.27,No,5,Medium,No
+34879,Ashley Stephens,74,Female,North Joshuastad,Savings,94852.62,658,2024-03-28,7722.74,No,2012,287,526.2,No,0,Medium,No
+34758,Claudia Velazquez,23,Female,Chadland,Business,85471.66,569,2024-11-08,7990.45,Yes,2002,85,269.15,Yes,2,Medium,No
+54510,Anthony Andersen,59,Female,Port Barry,Fixed Deposit,50938.17,611,2024-10-28,9754.45,No,2004,314,47.31,No,4,Low,No
+32077,Dennis Cook,71,Male,Brownshire,Savings,76754.22,583,2024-02-17,5187.87,No,2014,284,729.66,No,0,Medium,Yes
+48253,Christopher Johnson,56,Male,New Brian,Savings,71025.04,799,2024-03-21,2396.75,No,2019,197,205.89,No,5,High,Yes
+68636,Tammy Daugherty,49,Male,Ryanburgh,Current,12626.58,381,2024-08-03,4347.21,Yes,2021,314,219.24,No,0,Low,Yes
+70517,Troy Brown,55,Male,South Laurieview,Business,1750.27,349,2024-07-31,1653.57,No,2001,469,528.79,Yes,5,Low,No
+76885,Randall Parker,70,Female,Port Robertfurt,Business,60695.52,674,2024-06-25,7124.2,Yes,2011,228,19.69,Yes,3,Low,Yes
+19648,Maurice Garrett,47,Male,Josephmouth,Business,74434.36,635,2024-08-27,4320.17,No,2008,362,746.96,Yes,1,Medium,Yes
+84114,Sherry Fuentes,42,Female,Nicoleland,Savings,80696.98,793,2024-09-10,5461.04,No,2020,406,999.27,Yes,2,Medium,No
+84373,Michael Small,24,Male,Justinside,Fixed Deposit,8306.7,824,2024-02-27,7448.34,Yes,2002,317,460.95,Yes,0,High,No
+25802,Anthony Brown,52,Other,North Jacqueline,Savings,39521.95,450,2024-04-10,7342.23,Yes,2014,183,447.16,No,1,Low,No
+29340,Joseph Bennett,34,Other,Kimburgh,Fixed Deposit,71848.39,552,2024-08-08,5301.44,No,2022,381,652.29,Yes,2,Low,No
+75100,Anna King,67,Male,New Joyshire,Current,81017.84,547,2024-02-14,2928.52,No,2023,210,294.11,Yes,1,Low,Yes
+40854,Sherry Bryant,38,Female,West Charlotte,Business,82478.12,677,2024-01-04,1956.81,Yes,2002,348,536.75,No,3,Low,No
+64092,Tyler Henderson,56,Other,West Emily,Fixed Deposit,61698.03,462,2024-07-22,2609.39,Yes,2005,237,394.93,Yes,3,Medium,No
+84617,Daniel Collins,29,Male,Darleneport,Fixed Deposit,63189.12,839,2024-06-20,5416.42,Yes,2003,417,536.78,No,0,Low,No
+90782,April Blevins,74,Other,Lake Brian,Savings,85355.65,443,2024-05-29,4745.06,No,2019,371,248.53,Yes,2,Low,Yes
+82825,Tammy Torres,57,Female,Connortown,Savings,96861.78,706,2024-01-04,8719.01,Yes,2001,117,794.7,No,2,Low,Yes
+55390,John Walton,33,Female,Mckayview,Savings,84820.02,342,2024-02-25,9801.83,No,2001,290,253.19,Yes,3,Medium,No
+36464,Debra Owen,50,Female,Lancechester,Fixed Deposit,97595.41,550,2024-01-30,6028.62,Yes,2000,64,275.46,No,5,Medium,Yes
+28062,Justin Sherman,75,Male,West Joshuaberg,Current,52210.61,832,2024-01-16,3916.79,Yes,2006,219,95.73,No,5,Low,No
+83641,Katherine Fuentes,48,Female,Moorestad,Business,64226.24,496,2024-07-25,8276.13,No,2002,8,552.1,No,4,Low,Yes
+61616,Charles Jenkins,24,Other,North Mitchell,Current,26952.82,587,2024-02-02,8760.15,Yes,2009,127,101.76,No,2,Low,Yes
+54105,Erik Steele,32,Other,South Rebeccabury,Current,16386.19,709,2024-10-22,9329.94,Yes,2004,299,297.75,No,4,Low,Yes
+67581,Morgan Choi,72,Male,Walshburgh,Current,47857.44,534,2024-06-10,1728.73,Yes,2017,108,467.9,No,3,Low,No
+98482,Jennifer Romero,20,Female,Humphreyhaven,Business,89215.08,488,2024-09-28,9363.45,No,2001,289,426.04,No,4,Medium,Yes
+81446,David Flores,21,Male,South Kelly,Savings,27678.64,616,2024-02-05,2302.65,No,2005,190,888.06,No,4,High,Yes
+59872,Christopher Ayala,52,Male,Jessicaborough,Business,52590.3,846,2024-03-20,1704.88,No,2002,472,152.18,No,3,High,Yes
+61483,James Hernandez,38,Other,New Valerie,Current,58423.78,733,2024-08-16,5757.73,No,2014,450,914.96,No,4,High,No
+80629,Tammy Burns,45,Male,East Patrick,Fixed Deposit,67477.43,430,2024-01-31,6255.89,Yes,2014,254,359.69,No,4,Low,Yes
+52335,James Hobbs,19,Other,East Katietown,Current,20332.46,343,2024-09-04,5173.82,No,2010,295,11.72,No,0,High,No
+72090,Jacob Riddle,69,Female,Wagnerberg,Current,44346.95,542,2024-06-02,5612.72,Yes,2010,23,106.0,Yes,2,Medium,No
+45434,Gerald Salazar,31,Male,Marymouth,Current,60394.19,593,2024-09-05,8650.09,No,2019,460,873.1,No,4,Low,Yes
+55446,Mark Gordon,28,Male,Delgadobury,Savings,80325.24,650,2024-07-12,2045.2,Yes,2015,484,479.13,No,1,Medium,Yes
+62347,Robert Huffman PhD,30,Female,East Chad,Current,36022.35,754,2024-03-17,8450.43,No,2009,437,21.98,Yes,0,High,Yes
+35179,Jennifer Sheppard,48,Female,Tateview,Savings,40522.95,380,2024-10-06,8296.94,No,2003,173,181.11,Yes,4,Medium,No
+11588,Brian Donovan,55,Other,New Travis,Business,74624.06,816,2024-03-05,6753.59,Yes,2014,440,559.99,No,2,Medium,Yes
+44073,Kim Huff,60,Female,Careyfort,Savings,21873.09,683,2024-03-25,6535.26,Yes,2020,198,106.59,No,2,Medium,No
+50956,Kathleen Gray,47,Female,New Ryan,Fixed Deposit,61627.11,450,2024-05-14,5600.78,Yes,2013,109,200.42,No,0,Medium,No
+86507,Deborah Navarro,52,Other,South Teresa,Fixed Deposit,28274.57,465,2024-03-18,4577.07,Yes,2004,17,810.21,Yes,1,Low,No
+53882,Monica Sweeney MD,18,Female,East Zacharyberg,Fixed Deposit,34656.47,844,2024-06-30,6005.77,Yes,2022,9,956.59,No,3,Low,No
+49286,Melinda Graves,65,Female,South Katie,Savings,43954.74,527,2024-03-19,8504.95,No,2011,101,202.7,Yes,5,High,Yes
+38265,Shawn Burke DVM,44,Other,Abigailville,Savings,7243.68,713,2024-04-01,4275.33,Yes,2004,434,653.11,Yes,5,Medium,Yes
+29753,Jennifer Rodriguez,42,Male,Stevenfurt,Business,83993.8,796,2024-03-15,8507.81,Yes,2006,132,508.73,No,1,Low,No
+40446,Victoria Bush DDS,24,Other,Barnettview,Current,33316.73,344,2024-08-24,6078.56,Yes,2004,58,910.76,No,0,Low,No
+89782,Robert Hall,47,Female,Fergusonchester,Fixed Deposit,62101.04,649,2024-09-20,6557.55,No,2007,453,803.24,No,0,High,No
+43989,Linda Daugherty,29,Female,Alexanderstad,Business,83783.03,763,2024-10-19,2415.03,No,2010,42,812.79,No,2,Low,Yes
+70535,Jill Berry,75,Male,Fergusonbury,Savings,69866.95,640,2024-10-06,3952.84,Yes,2007,436,245.04,Yes,0,High,Yes
+71511,Stephanie Davis,20,Other,Timothyton,Current,48168.84,621,2024-04-15,6408.39,Yes,2012,478,504.2,Yes,3,High,Yes
+72498,Benjamin Shelton,47,Male,Jennifertown,Savings,7092.39,606,2024-06-29,7590.48,Yes,2016,202,654.32,Yes,1,Low,No
+63814,Marisa Lewis,32,Male,Levyshire,Business,77993.59,578,2024-05-12,5749.65,Yes,2008,381,160.71,No,4,High,No
+20036,Tracy Taylor,62,Male,Tuckertown,Business,67504.86,398,2024-02-13,5095.86,No,2019,10,736.74,No,4,Low,No
+71670,Emily Solis DVM,33,Female,Lake Ronniefurt,Savings,92112.44,391,2024-10-11,7312.23,No,2017,270,27.41,Yes,5,Medium,No
+98481,Erin Johnson,52,Female,Popeburgh,Savings,81567.95,509,2024-07-31,7757.71,No,2021,366,420.08,Yes,0,Medium,No
+93498,Andrea Parker,73,Female,Port Angie,Current,6236.94,383,2024-06-08,5922.01,Yes,2003,475,89.5,Yes,4,Low,No
+31130,Brenda Tran,22,Female,New Lisabury,Fixed Deposit,45863.98,667,2024-11-19,1288.05,Yes,2020,58,909.97,No,0,Low,Yes
+97178,Charles Terry,52,Male,East Antonio,Fixed Deposit,80283.17,617,2024-07-24,6407.06,Yes,2011,123,583.17,No,5,Low,Yes
+93405,Alyssa Harris,25,Male,South Doris,Business,62013.72,472,2024-02-15,2390.02,No,2002,151,317.76,No,4,Low,Yes
+58785,Douglas Hall,27,Male,Harrisburgh,Business,95441.57,618,2024-07-07,5508.41,No,2004,2,587.72,Yes,5,High,No
+87678,Chad Phillips,22,Other,South Allisonland,Fixed Deposit,31258.91,589,2024-11-19,2850.62,No,2004,86,629.72,Yes,1,High,Yes
+86539,Deanna Russo,65,Female,New Patrick,Business,97675.71,530,2024-09-24,1102.82,Yes,2006,28,386.04,No,5,Low,Yes
+63755,Rachel Casey,49,Female,Adamville,Fixed Deposit,45717.89,824,2024-01-07,1798.07,No,2009,94,186.84,Yes,1,High,Yes
+97605,Brandy Price,22,Other,Port Kellystad,Savings,24693.21,758,2024-03-12,3107.43,Yes,2008,272,503.16,Yes,5,Low,Yes
+94669,Christina Fischer,62,Other,Mcmillantown,Fixed Deposit,39030.77,506,2024-05-19,9395.54,Yes,2005,264,757.94,Yes,5,High,Yes
+20370,Dennis Ewing,62,Other,North Margaret,Current,44470.08,471,2024-06-20,4829.99,No,2021,454,396.74,Yes,3,Medium,No
+69193,Michelle Turner,54,Female,Krauseshire,Business,18310.06,831,2024-09-09,7243.84,Yes,2010,180,101.96,Yes,0,Low,No
+83243,Anna Bradley,47,Female,Jacobsonshire,Current,31065.08,475,2024-03-08,5231.3,Yes,2008,493,718.66,No,0,Low,No
+12229,Patricia Shaw,46,Female,North Matthewbury,Savings,97382.93,441,2024-07-16,1914.25,Yes,2000,49,111.54,Yes,1,High,Yes
+19751,Mark Dennis,36,Other,East Michael,Business,96777.66,491,2024-01-24,3277.27,Yes,2002,7,59.54,No,3,High,Yes
+92826,John Thompson,63,Other,Lake Ericfurt,Business,1091.8,369,2024-02-16,5165.15,Yes,2011,261,45.61,No,4,High,No
+97604,Helen Mendez,60,Other,Hannahside,Current,10383.04,657,2024-02-13,6141.05,Yes,2019,142,408.55,Yes,4,Medium,No
+27862,Corey Walls,73,Male,Markside,Current,46844.23,842,2024-02-11,3489.75,Yes,2009,285,879.11,Yes,5,Low,Yes
+59009,Paul Simon,28,Female,North Christopher,Current,51904.05,306,2024-10-23,8308.72,Yes,2014,480,55.25,No,1,High,Yes
+74865,Scott Ramos,51,Male,Lifort,Current,31179.48,620,2024-02-22,3712.4,No,2002,399,980.89,No,3,High,Yes
+77040,Sean Robinson,44,Other,New Michael,Current,46060.69,653,2024-02-16,3655.1,Yes,2002,256,787.57,Yes,4,Low,Yes
+99060,Kayla Blackwell,53,Male,Brownstad,Savings,46136.85,735,2024-05-30,9604.59,No,2000,461,91.62,No,3,High,No
+80722,Melissa Weaver,38,Male,East Rhonda,Savings,16125.43,803,2024-02-17,3548.18,Yes,2004,464,86.68,Yes,2,Medium,No
+10141,Kenneth Reed,48,Other,Hayesmouth,Savings,61385.82,782,2024-08-06,4870.55,No,2014,262,941.42,Yes,0,Low,Yes
+98857,Christina Franklin,56,Female,Hollandstad,Fixed Deposit,11357.44,445,2024-10-12,8875.07,No,2012,231,845.24,No,1,Low,No
+46984,Wendy Perez,69,Other,Lake Elainefort,Business,18099.16,449,2024-02-04,8968.19,Yes,2011,404,803.12,No,1,Low,No
+42640,Timothy Benton,53,Male,Owensview,Fixed Deposit,90315.46,705,2024-11-02,7518.81,Yes,2020,404,655.84,No,1,Medium,No
+41813,Daniel Cline,73,Male,South Kevin,Fixed Deposit,36817.17,420,2024-07-07,5007.52,Yes,2015,331,395.41,Yes,3,High,Yes
+37716,Allison Harris,63,Other,North Darryltown,Current,66866.17,394,2024-08-29,9292.15,No,2021,260,34.42,Yes,2,High,Yes
+74750,Jennifer Spears,25,Female,Chungstad,Business,18699.82,536,2024-10-05,6053.42,Yes,2000,279,189.82,No,1,Low,No
+89210,Daniel Rodriguez,36,Male,Tracyberg,Fixed Deposit,73227.79,822,2024-06-16,1312.81,Yes,2010,308,469.66,Yes,5,High,Yes
+92725,Gregory Hughes,54,Male,Port Joseburgh,Savings,86987.13,443,2024-03-17,2766.93,No,2011,432,428.72,No,1,Low,No
+10220,Laura Fields,75,Female,Rachelburgh,Savings,90198.16,730,2024-08-22,7850.45,No,2010,294,29.72,No,1,Low,Yes
+50850,Sara Yang,50,Female,East Bradleychester,Business,78723.69,464,2024-01-30,3903.99,Yes,2007,211,650.54,No,5,Medium,Yes
+98409,John Mitchell,37,Male,East Rebecca,Savings,61184.44,376,2024-04-25,8419.0,Yes,2001,373,127.41,Yes,4,High,No
+20445,Mrs. Mary Jones,43,Female,Lake Keith,Current,37855.02,780,2024-04-01,1469.77,Yes,2009,491,361.88,No,3,Low,Yes
+64212,Wanda Thompson,71,Female,Port Williamchester,Business,80115.17,812,2024-10-16,1764.16,Yes,2017,320,716.28,Yes,5,Medium,Yes
+86094,Patricia Perez,38,Male,Armstrongton,Savings,8523.79,781,2024-06-19,3602.81,Yes,2020,55,534.11,Yes,5,Medium,No
+98715,Brittney Huang,47,Female,Jeremybury,Business,15191.12,652,2024-02-20,7042.12,No,2018,296,429.78,No,1,Low,No
+98316,Nancy Bradley,66,Male,East Holly,Savings,29307.46,729,2024-10-30,2716.33,Yes,2007,162,830.81,No,0,High,No
+85088,Roger Mathews,48,Female,West Travismouth,Current,74095.44,714,2024-06-24,2762.95,Yes,2011,10,591.16,No,3,Medium,No
+26431,Andrew Nelson,21,Other,Batesborough,Current,50640.0,305,2024-05-05,7822.77,No,2011,336,524.58,No,1,High,No
+28035,Michael Carson,61,Other,Moonborough,Current,50967.36,710,2024-07-08,8944.05,No,2022,82,916.51,Yes,5,Medium,No
+44439,Jennifer Thompson,65,Female,North Richardfurt,Fixed Deposit,63072.84,300,2024-11-23,6238.55,No,2023,182,135.65,No,5,Low,No
+85245,Marie Torres,54,Other,South Jameschester,Savings,63144.37,468,2024-04-27,6498.18,No,2004,127,765.42,Yes,3,High,No
+49424,Lauren Perez,49,Female,Lake Marissa,Business,13560.64,815,2024-06-15,1631.03,No,2014,194,818.39,No,1,High,No
+65584,Steven Smith,64,Other,New Zacharyside,Fixed Deposit,99951.82,458,2024-07-30,8380.44,Yes,2017,158,997.69,Yes,4,Low,No
+90953,Jack Thompson,36,Male,Kevinfort,Savings,4154.12,530,2024-10-29,1187.96,No,2012,226,468.62,Yes,3,Medium,Yes
+90267,Anthony Ray,25,Other,New Anthonyland,Fixed Deposit,56076.43,519,2024-08-13,9302.83,No,2003,235,281.76,Yes,2,High,Yes
+72302,Emily Malone,64,Female,New Brianton,Fixed Deposit,72438.17,645,2024-07-10,9650.76,Yes,2013,184,983.71,Yes,4,High,No
+61422,Samantha Jones,28,Other,Greenmouth,Savings,36031.29,354,2024-05-09,2924.99,No,2002,236,408.46,Yes,4,High,Yes
+56247,Teresa Brady,57,Other,East Barbarafort,Fixed Deposit,87623.69,826,2024-04-07,7550.88,Yes,2014,167,987.25,No,1,Low,No
+47422,Stephen Torres,68,Other,South Jessehaven,Business,27145.61,629,2024-03-05,4943.98,Yes,2008,221,169.8,Yes,0,Medium,Yes
+38389,Steven Ryan,74,Female,West Terriland,Fixed Deposit,57685.76,787,2024-06-21,4807.32,Yes,2014,164,881.99,No,3,High,No
+15572,Alfred Lee,61,Other,North Christopher,Savings,89525.65,619,2024-04-07,4310.96,Yes,2012,1,557.94,No,0,Medium,No
+53733,Katelyn Cruz,52,Male,North Lisafurt,Savings,26088.09,454,2024-01-30,6859.5,Yes,2011,87,177.71,Yes,1,Medium,No
+75623,Elizabeth Green,65,Male,Morrishaven,Fixed Deposit,77063.41,715,2024-02-15,1478.51,Yes,2002,361,616.1,No,2,Medium,No
+79541,Joshua Ryan,58,Other,Thompsonberg,Savings,78005.45,660,2024-02-23,8748.09,Yes,2002,325,171.82,No,4,Low,Yes
+36563,Stephen Watts,33,Male,Sarahfurt,Savings,62318.18,827,2024-11-07,6150.26,No,2022,162,749.22,Yes,2,High,Yes
+92708,Stephen Adams,65,Other,East Joelport,Fixed Deposit,90245.47,686,2024-09-21,2822.15,Yes,2002,297,703.03,No,2,High,No
+71829,Sandra Wright,72,Female,Port Robert,Savings,93841.52,431,2024-02-04,9543.07,No,2016,278,840.27,No,1,Medium,No
+89852,Mary Stark,55,Male,Port Michelle,Business,98454.14,328,2024-08-26,4618.88,Yes,2023,160,133.85,No,0,Medium,No
+50512,Sherry Morrison,31,Other,East Christina,Business,18983.51,317,2024-04-15,9615.45,Yes,2020,300,268.47,No,2,High,No
+84816,Stephanie Anderson,46,Male,West Anthonyview,Business,23206.24,776,2024-10-18,4121.81,Yes,2015,246,529.21,No,2,Low,Yes
+87776,Andrea Morales,61,Male,Jennahaven,Current,1815.31,645,2024-07-20,7978.64,Yes,2007,150,719.92,No,2,Medium,No
+87668,Paula Myers,53,Female,East Jasmine,Current,19806.11,600,2024-11-05,2616.39,No,2022,240,227.1,No,2,High,Yes
+86920,Edward Watson,40,Other,Lake Peter,Current,58627.9,690,2024-11-03,9203.24,No,2005,411,690.5,No,0,Medium,No
+86297,Dr. Dawn Butler,50,Male,Williamsmouth,Current,40699.03,757,2024-06-29,2368.61,No,2000,76,256.58,No,5,Low,Yes
+81966,Jenna Kennedy,70,Male,Grantmouth,Business,39533.59,639,2024-09-30,6178.81,No,2016,3,345.59,No,4,Low,No
+44636,Alicia Le,56,Female,Rodriguezburgh,Current,51169.58,807,2024-08-19,8316.87,Yes,2016,450,178.95,No,0,Medium,No
+86524,Jeremy Scott,51,Female,Dianechester,Savings,33385.94,303,2024-08-16,5232.76,Yes,2012,353,92.38,Yes,4,Medium,Yes
+96411,Andrew Marquez,72,Female,North Ashley,Fixed Deposit,99167.76,642,2024-10-03,5778.27,Yes,2014,370,795.57,No,4,Medium,Yes
+47449,Kevin Jones,62,Female,South Timothy,Business,91324.45,387,2024-10-08,3105.85,No,2015,476,572.87,Yes,1,Medium,No
+12217,Richard Santos,21,Female,Adamton,Fixed Deposit,33928.37,767,2024-02-29,7240.55,Yes,2010,148,906.1,No,1,Medium,No
+87952,Daniel Martinez,22,Male,Huntermouth,Fixed Deposit,12552.43,400,2024-09-03,5262.26,Yes,2002,206,562.16,Yes,0,High,No
+67960,Mark Perez,26,Female,South Wendy,Fixed Deposit,49227.72,539,2024-02-17,2953.58,No,2015,143,112.53,No,4,Low,Yes
+54795,Logan Smith,38,Female,Johnsonland,Savings,24792.11,575,2024-07-12,3194.92,No,2001,167,917.3,Yes,1,Medium,Yes
+97305,Victor Martinez,26,Female,Jeffersonfort,Current,17007.91,643,2024-04-13,7912.79,No,2015,246,824.7,Yes,3,Medium,No
+82174,Jordan Hartman,56,Male,Fisherside,Savings,51782.97,804,2024-05-24,4926.43,Yes,2023,491,885.6,No,1,Medium,No
+67312,Wayne Stevens,25,Male,Port Thomas,Current,10750.74,469,2024-02-10,2620.49,Yes,2011,408,464.68,Yes,2,Low,Yes
+38490,Jordan Morales,55,Other,Philipville,Current,58407.3,651,2024-08-17,5175.54,Yes,2008,201,954.01,No,2,High,No
+23990,Linda Wilson,54,Female,Helenfort,Current,97765.59,352,2024-11-02,3470.45,Yes,2000,15,989.26,Yes,0,High,No
+38045,April Rogers,38,Other,West Dylanborough,Business,38591.6,695,2024-04-08,4294.02,Yes,2005,238,378.28,No,5,High,Yes
+83343,Michele Gross,36,Other,East Margaretmouth,Current,68594.68,618,2024-11-11,9646.55,No,2016,384,656.86,No,2,Low,No
+17499,Cheryl Dominguez,37,Other,North Shannon,Business,11466.91,318,2024-02-05,4686.47,No,2001,361,650.99,Yes,0,High,Yes
+19632,Kathleen Davies,64,Female,Reedview,Fixed Deposit,8519.12,418,2024-10-01,5303.01,Yes,2006,494,367.19,No,4,Medium,Yes
+25153,Donna Moss,71,Female,North Charles,Business,16518.54,480,2024-09-27,4832.29,No,2003,90,289.31,Yes,5,Low,No
+37118,Jeremy Keith,60,Female,Darrenhaven,Savings,62188.47,459,2024-07-24,2968.4,Yes,2017,457,136.95,No,3,Medium,Yes
+15188,Tonya Mcconnell,53,Other,Justinchester,Savings,31082.09,361,2024-09-06,4289.87,No,2013,146,64.44,Yes,0,Medium,No
+86367,Angela Morris,66,Female,Masonmouth,Current,46062.05,569,2024-09-14,4679.83,No,2015,242,698.02,Yes,4,Medium,Yes
+29590,Kenneth Lewis,69,Male,South Mariahaven,Savings,32380.32,373,2024-04-17,9193.35,No,2007,96,408.81,Yes,0,High,No
+37079,George Cooke,68,Other,West Denise,Current,39892.28,707,2024-02-03,8678.7,Yes,2018,109,581.72,No,1,High,Yes
+92144,Mrs. Jackie Mitchell,38,Female,Brownstad,Fixed Deposit,14397.71,803,2024-09-07,2803.28,Yes,2021,494,900.68,No,5,Medium,Yes
+83306,Matthew Jacobson,69,Female,Howardburgh,Savings,35611.41,363,2024-04-08,8127.29,No,2013,13,115.79,No,5,Low,No
+65625,Eric Higgins,68,Male,North Michelleton,Fixed Deposit,1147.57,350,2024-04-14,6431.45,No,2001,189,127.34,No,5,Medium,Yes
+26256,Sarah Bates,28,Male,New Amanda,Business,53408.02,722,2024-10-11,1838.98,No,2015,286,587.57,Yes,4,Medium,No
+25238,Mariah Wright MD,60,Male,South Amber,Savings,73152.35,612,2024-09-01,8410.33,Yes,2007,375,61.49,Yes,1,Medium,No
+79838,Shawn White,49,Other,Reneeland,Current,2138.92,813,2024-08-16,6531.27,Yes,2022,185,128.17,Yes,1,Low,Yes
+49870,Jeffrey Martinez,74,Male,Greenshire,Business,38697.59,368,2024-02-18,9986.11,No,2020,62,423.83,Yes,0,Low,Yes
+46104,Hunter Hubbard,69,Male,Lake Edward,Fixed Deposit,67461.23,453,2024-03-23,4554.45,Yes,2020,45,996.46,Yes,0,Medium,No
+19341,Elizabeth Hardy,62,Male,Hoffmanshire,Business,79747.38,447,2024-09-20,8720.45,No,2010,258,511.21,Yes,0,High,No
+78307,Julie Hawkins,21,Female,Floresfort,Current,16340.63,434,2024-06-18,6588.11,Yes,2007,303,207.82,Yes,0,High,No
+57842,Alexander Conrad,20,Other,Jonathanfurt,Fixed Deposit,13669.26,475,2024-08-03,9983.6,Yes,2004,345,319.9,No,4,Medium,No
+57358,Justin Woods,74,Female,Port Chelsea,Business,78986.19,818,2024-10-01,5741.79,No,2012,307,188.17,No,4,Medium,No
+69271,Troy Hebert,69,Other,Grahamburgh,Savings,42480.24,736,2024-02-28,4739.28,Yes,2022,250,608.46,Yes,2,Medium,No
+75140,Andrea Atkinson,24,Male,South Tristan,Fixed Deposit,65095.44,543,2024-06-11,2262.3,No,2018,195,93.28,No,1,Medium,No
+25347,Dylan Roberts,59,Female,Butlerport,Business,21072.25,348,2024-05-27,9725.89,No,2006,151,794.69,No,2,Low,Yes
+21392,Gabriel Hays,40,Male,New Leroyport,Savings,49573.56,748,2024-04-25,8514.48,Yes,2001,489,634.35,No,5,Medium,Yes
+93721,Omar Welch,22,Other,Jeremyfort,Current,44314.79,302,2024-10-17,8989.97,Yes,2010,176,704.9,Yes,2,Low,No
+95602,Vincent Sanchez,58,Male,West Jamesside,Current,53699.47,665,2024-09-04,8480.2,No,2000,479,167.95,Yes,4,Low,No
+15058,Kenneth Palmer,51,Female,North Brent,Current,87541.01,693,2024-03-06,6638.81,Yes,2021,104,487.74,No,4,High,Yes
+42075,Julie Walker,64,Female,East Stephanie,Current,46195.79,321,2024-02-02,5696.88,No,2015,150,338.48,Yes,1,Medium,No
+26915,Mary Mitchell,51,Female,West Rebeccaborough,Current,92407.8,301,2024-03-05,1134.31,No,2000,245,965.75,No,1,Medium,No
+43985,Barbara Johnston,42,Female,Henryfurt,Fixed Deposit,18092.09,726,2024-06-23,5686.87,No,2021,336,519.13,No,4,Low,Yes
+16708,Emily Clark,68,Other,Adamville,Fixed Deposit,2151.27,427,2024-06-15,1524.52,No,2022,177,448.92,Yes,5,Low,No
+55514,Veronica Young,42,Male,Allenstad,Fixed Deposit,79631.2,428,2024-04-19,9894.52,No,2008,401,364.21,No,1,High,No
+30975,Jessica Hayes,67,Female,Brendabury,Fixed Deposit,45957.01,736,2024-01-19,6398.27,No,2011,369,675.56,No,2,Low,Yes
+27815,Anthony Shelton,20,Female,Cookbury,Fixed Deposit,18881.94,813,2024-07-09,8870.93,No,2019,26,167.74,No,3,Low,Yes
+30758,Kathy Carter,72,Male,Jacobschester,Fixed Deposit,81148.69,631,2024-08-24,1505.18,No,2021,421,817.04,Yes,4,High,Yes
+13229,Brittany Jacobs,56,Female,Bowenstad,Savings,47951.65,658,2024-03-14,1716.08,No,2019,1,632.66,No,3,High,No
+42126,Michelle Huff,56,Other,Lake Kayla,Savings,4869.81,381,2024-07-27,5133.93,No,2014,222,311.35,Yes,5,High,No

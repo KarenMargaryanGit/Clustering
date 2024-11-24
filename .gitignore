@@ -1,0 +1,55 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.Python
+
+# Virtual Environments
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+.tox/
+.coverage
+*.cover
+
+# mypy
+.mypy_cache/
+
+# Pytest
+.coverage
+.hypothesis/
+.pytest_cache/
+.tox/
+
+# C extensions
+*.so
+
+# VS Code workspace storage
+.vscode/
+
+# Mac OS X
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
