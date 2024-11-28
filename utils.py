@@ -9,12 +9,13 @@ import matplotlib.pyplot as plt
 from kneed import KneeLocator
 from sklearn.preprocessing import StandardScaler
 import logging
-
+import json
+import gc
 
 warnings.filterwarnings("ignore")
 
 class ClusteringOptimizer:
-    def __init__(self, X, n_clusters = (5,20), n_trials=100, verbose=False):
+    def __init__(self, X, category = '', n_clusters = (7,13), n_trials=100, verbose=False):
         self.X = X
         self.X_scaled = StandardScaler().fit_transform(self.X)
         self.n_clusters = n_clusters
@@ -22,12 +23,33 @@ class ClusteringOptimizer:
         self.best_scores = {}
         self.best_params = {}
         self.best_labels = {}
+        self.cluster_distribusion = {}
         self.best_wcss_scores = {}
         self.optimal_k = {}
         self.verbose = verbose
+        self.category = category
+        
         if not self.verbose:
             optuna.logging.set_verbosity(optuna.logging.WARNING)
-    
+
+    def save_model_parametrs(self):
+        
+        data = {
+            'parametrs' : self.best_params,
+            'scores' : self.best_scores,
+        }
+        cluster_counts = {}
+        for x in self.best_labels:
+            # Count the number of data points in each cluster
+            label = self.best_labels[x]
+            label[label == -1] = self.best_labels[x].max() + 1
+            cluster_counts[x] = np.bincount(label)
+        print(data)
+        print(cluster_counts)
+
+        # with open(f"data/data_{self.category}.json", "w") as json_file:
+        #     json.dump(data, json_file, indent = 4)
+            
 
     def plot_wcss_elbow(self, n_clusters_, wcss):
         import matplotlib.pyplot as plt
@@ -95,12 +117,19 @@ class ClusteringOptimizer:
 
         self.optimal_k['kmeans'] = n
 
+        label = self.best_labels['kmeans']
+        label[label == -1] = self.best_labels['kmeans'].max() + 1
+        cluster_counts = np.bincount(label)
+
         print(f"Optimal number of clusters: {self.optimal_k['kmeans']}")
         print(f"Best parameters: {self.best_params['kmeans']}")
         print(f"Best WCSS Inertia: {self.best_wcss_scores['kmeans']}")
         print(f"Silhouette Score: {self.best_scores['kmeans']}")
+        print(f"Cluster counts: {cluster_counts}")
 
+        gc.collect()
 
+    
     def optimize_dbscan(self):
         def objective(trial):
             params = {
@@ -137,13 +166,19 @@ class ClusteringOptimizer:
         # n_clusters_ = len(set(labels) - {-1})
         n_clusters_ = len(set(labels))
 
+        label = self.best_labels['dbscan']
+        label[label == -1] = self.best_labels['dbscan'].max() + 1
+        cluster_counts = np.bincount(label)
+
         self.best_scores['dbscan'] = silhouette_score(self.X, labels)
         self.optimal_k['dbscan'] = n_clusters_
         # Print results
         print(f"Best Silhouette Score: {self.best_scores['dbscan']}")
         print(f"Best Parameters: {self.best_params['dbscan']}")
         print(f"Number of Clusters (excluding noise): {self.optimal_k['dbscan']}")
+        print(f"Cluster counts: {cluster_counts}")
 
+        gc.collect()
         
     def optimize_hdbscan(self) -> None:
         def objective(trial):
@@ -179,10 +214,16 @@ class ClusteringOptimizer:
         n_clusters_ = len(set(self.best_labels['hdbscan']))
         self.optimal_k['hdbscan'] = n_clusters_
 
+        label = self.best_labels['hdbscan']
+        label[label == -1] = self.best_labels['hdbscan'].max() + 1
+        cluster_counts = np.bincount(label)
+        
         print(f"Best Silhouette Score: {self.best_scores['hdbscan']}")
         print(f"Best Parameters: {self.best_params['hdbscan']}")
         print(f"Number of Clusters (excluding noise): {self.optimal_k['hdbscan']}")
+        print(f"Cluster counts: {cluster_counts}")
 
+        gc.collect()
 
         
     def optimize_agglomerative(self):
@@ -194,19 +235,19 @@ class ClusteringOptimizer:
             def objective(trial):
                 params = {
                     'linkage': trial.suggest_categorical('linkage', ['ward', 'complete', 'average']),
-                    'affinity': trial.suggest_categorical('affinity', ['euclidean', 'manhattan', 'cosine'])
                 }
 
                 if params['linkage'] == 'ward':
-                    params['affinity'] = 'euclidean'
-
-                clusterer = AgglomerativeClustering(n_clusters=n, **params)
+                    params['metric'] = 'euclidean'
+                else:
+                    params['metric'] = trial.suggest_categorical('metric', ['euclidean', 'cosine'])
+                clusterer = AgglomerativeClustering(n_clusters=n,memory = None, **params)
                 labels = clusterer.fit_predict(self.X)
 
                 if len(np.unique(labels)) < 2:
                     return -1  
 
-                score = silhouette_score(self.X, labels, metric=params['affinity'])
+                score = silhouette_score(self.X, labels, metric=params['metric'])
                 return score
 
             # Optimize using Optuna
@@ -229,33 +270,57 @@ class ClusteringOptimizer:
 
         # Calculate and store the silhouette score for the optimal clustering
         self.best_scores['agglomerative'] = silhouette_score(
-            self.X, self.best_labels['agglomerative'], metric=self.best_params['agglomerative']['affinity']
+            self.X, self.best_labels['agglomerative']
         )
 
+        label = self.best_labels['agglomerative']
+        label[label == -1] = self.best_labels['agglomerative'].max() + 1
+        cluster_counts = np.bincount(label)
+
+        
         # Print the results
         print(f"Optimal number of clusters: {self.optimal_k['agglomerative']}")
         print(f"Best parameters: {self.best_params['agglomerative']}")
         print(f"Best Silhouette Score: {self.best_scores['agglomerative']}")
+        print(f"Cluster counts: {cluster_counts}")
 
-        
+
+        gc.collect()
+
+    
     def optimize_all(self):
-        print("---------------------------------------------")
-        print("Optimizing K-means...")
-        self.optimize_kmeans()
+        # try:
+        #     print("---------------------------------------------")
+        #     print("Optimizing K-means...")
+        #     self.optimize_kmeans()
+        # except:
+        #     pass
 
-        print("---------------------------------------------")
-        print("Optimizing DBSCAN...")
-        self.optimize_dbscan()
+        try:
+            print("---------------------------------------------")
+            print("Optimizing DBSCAN...")
+            self.optimize_dbscan()
+        except:
+            pass
 
-        print("---------------------------------------------")
-        print("Optimizing HDBSCAN...")
-        self.optimize_hdbscan()
+        # try:
+        #     print("---------------------------------------------")
+        #     print("Optimizing HDBSCAN...")
+        #     self.optimize_hdbscan()
+        # except:
+        #     pass
+            
+        try:
+            print("---------------------------------------------")
+            print("Optimizing Agglomerative Clustering...")
+            self.optimize_agglomerative()
+        except:
+            pass
 
-        print("---------------------------------------------")
-        print("Optimizing Agglomerative Clustering...")
-        self.optimize_agglomerative()
         
         best_algorithm = max(self.best_scores.items(), key=lambda x: x[1])[0]
+        
+        self.save_model_parametrs()
         
         return (
             best_algorithm,
